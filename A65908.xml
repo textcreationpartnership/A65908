@@ -1,0 +1,654 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of perfection vindicated by way of answer to some objecting reasons frequently used by them that plead for sin in this life ... with some wholesome exhortation ... shewing plainly how it is agreeable with what is signified in the Scripture and the light within ... : something likeways expressed concerning bread and wine : also some wholsome directions to stir up young people to seek after their Creator in the days of their youth / written by one who breathes to God for the redemption of the seed that lies yet in the house of bondage bound by the cords of iniquity, J.W.</title>
+            <author>Whitehouse, John, fl. 1662-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65908</idno>
+            <idno type="STC">Wing W1984</idno>
+            <idno type="STC">ESTC R33637</idno>
+            <idno type="EEBO-CITATION">13541718</idno>
+            <idno type="OCLC">ocm 13541718</idno>
+            <idno type="VID">100088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of perfection vindicated by way of answer to some objecting reasons frequently used by them that plead for sin in this life ... with some wholesome exhortation ... shewing plainly how it is agreeable with what is signified in the Scripture and the light within ... : something likeways expressed concerning bread and wine : also some wholsome directions to stir up young people to seek after their Creator in the days of their youth / written by one who breathes to God for the redemption of the seed that lies yet in the house of bondage bound by the cords of iniquity, J.W.</title>
+                  <author>Whitehouse, John, fl. 1662-1663.</author>
+               </titleStmt>
+               <extent>47 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to John Whitehouse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100088:1"/>
+            <pb facs="tcp:100088:1"/>
+            <p>THE Doctrine of Perfection VINDICATED:</p>
+            <p>By way of <hi>Anſwer</hi> to ſome <hi>objecting Reaſons,</hi> frequent<g ref="char:EOLhyphen"/>ly uſed by them that plead for Sin in this life: And that <hi>Freedom from Sin</hi> is to be attained in this life, or never, plainly ſhewed herein; and how they that deny it, are one with the falſe Prophets and Antichriſtian Seducers, ſpoken of in the Scriptures.</p>
+            <p>With ſome <hi>Wholſome EXHORTATION</hi> given forth as the Spirit gave utterance; tending to provoke all that make a profeſſion of God, to preſs on after the ſame.</p>
+            <p>Shewing plainly, how it is agreeable with what is ſignified in the <hi>Scripture,</hi> and <hi>the Light within;</hi> both of which bears witneſs <hi>for</hi> the ſaid Doctrine, and <hi>againſt</hi> all Sin.</p>
+            <p>Something likewayes expreſſed concerning BREAD and WINE.</p>
+            <p>Alſo, ſome wholſome DIRECTIONS to ſtir up young People to ſeek after their Creator in the dayes of their youth.</p>
+            <p>Written by one who breathes to God for the Redemption of the Seed, that lies yet in the houſe of bondage, bound by the Cords of Ini<g ref="char:EOLhyphen"/>quity,</p>
+            <p>
+               <hi>J. Whitehouse.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Wilſon,</hi> 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100088:2"/>
+            <pb facs="tcp:100088:2"/>
+            <head>TO THE READERS.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>THe eternal inviſible Fountain of Wiſdom, Life, Love, and everlaſting Mercy, who is the Creator and Upholder of all things by the Word of his powerful Spirit, who is God over all, bleſſed for ever; who when I was young and tender in years, did beget a ſincere deſire in my ſoul, which hath cauſed me, even to this day, ſecretly to ſeek after the knowledge of, and acquaintance with him, that I might know his Will, and receive Power from him to do the ſames the which deſires, he in his endleſs Love to my poor breathing ſoul (which hath no true peace nor ſa<g ref="char:EOLhyphen"/>tisfaction, but in doing his Will, and enjoying his Preſence, which is of more value to me than any outward thing, yea, than Life it ſelf in this world) hath far more abundantly ſatisfied, than many now can, or than I my ſelf once could believe, when I was in the darkneſs, which comprehends not the Light of his Son, which ſhines in the hearts of the ſons and daughters of men, letting them ſee the evil of their wayes, which I teſtifie, as one who hath made proof of the ſame, is ſufficient to give them the knowledge of God, and to lead them into all Truth, if they would but give up to follow the leadings of it; by the leadings of which, in my ſeeking eſtate, have I been drawn from one ſort of People to an<g ref="char:EOLhyphen"/>other, ſtill to aſſociate my ſelf with thoſe who did moſt ſincerely preſs on after God in a holy life, being willing to run with the formoſt, that I might obtain with them the prize; which is to ſay, in this life (only) a perfect freedom from all ſin, even to
+<pb facs="tcp:100088:3"/>
+               <hi>put off the old man, with all his deeds,</hi> which is ſin, and <hi>a put<g ref="char:EOLhyphen"/>ting on the new,</hi> which is created after God in perfect and true Holineſs, which the Lord God hath given me by his Spirit, to believe and ſee a poſſibility of attaining to; in which only ſtands the certain aſſurance of the full Prize, and the eternal Weight and Crown of Glory, which in the Life to come is to be fully en<g ref="char:EOLhyphen"/>joyed; the which this firſt is but as an Earneſt of, without which the true certainty of the ſecond cannot be obtained: And ſince I have received this Faith, power thereby hath been given me far more than before, when I rejected the Light of his Son, by which only I witneſs it is received: And now this Faith, which is from above, even the perfect gift of God, I find to be the chiefeſt thing, for the effecting and compleating of an holy life in man, through the power of God, (in them which believe, being received into the heart) of obtaining a <hi>perfect life,</hi> becomes as a root therein which is pure, that cauſeth the branches to be holy, and keeps the creature circumſpect and ſincere to God, ſtill minding what a holy Calling and Mark is ſet before it; and ſo the Faith being ſound and clean, the fruits thereof are Holineſs, which be<g ref="char:EOLhyphen"/>comes the Houſe of the Lord God: And verily whoſoever comes to ſup with him, without this comely pure covering of Holineſs, they ſhall in no wayes enter with the Lamb into the Marriage-Cham<g ref="char:EOLhyphen"/>ber, but be ſhut out, (the which I ſee this day, to the burthening of my ſoul and grief of my ſpirit, is abundantly wanting amongſt moſt People profeſſing God and Chriſt) for they having not this purifying Faith, count it Blaſphemy and Error, and ſo reſt and believe in the contrary; (which is to ſay) they muſt live, in ſin whilſt in this life, being taught ſo by their blind guides, who could not themſelves ceaſe therefrom; and ſo Prophaneneſs is gone forth from the Prieſts, over all the Land, as in the ancient dayes; which giveth way to much looſneſs and ſin; the which, if any in the Spirit of meekneſs and fear of God reprove them
+<pb facs="tcp:100088:3"/>for, then preſently they flee to the Scripture, and with the ſame ſpirit that leads them to ſin, rake together all the Saints fail<g ref="char:EOLhyphen"/>ings, to plead for ſin, term of life, the which thoſe things were never written for; ſo that in ſtead of reſiſting the Devil, in the pure Faith which ſtands in the Power of God, rather gives place to him, and pleads for their ſo doing; ſo that the Devil hath not his Kingdom by force onely, but by conſent, they having granted him a place in them, while they have a place in this life; which grieves the Spirit of God their Creator, who alone ſhould have the Rule and Government of their bodies, ſouls, and ſpirits, which are his; in the ſenſe of which I am moved to write theſe following lines by way of <hi>Anſwer</hi> to ſome <hi>Que<g ref="char:EOLhyphen"/>ſtions,</hi> or <hi>objecting Reaſons,</hi> which are frequently uſed by them that plead for ſin, and againſt the Doctrine of <hi>Perfecti<g ref="char:EOLhyphen"/>on;</hi> that if poſſible, it may be a help to ſtir them up to the Wit<g ref="char:EOLhyphen"/>neſs of God in them, that their Underſtandings by it may be open<g ref="char:EOLhyphen"/>ed who are not wilfully blind, but rather through ignorance ſtand againſt the thing, being beguiled by the ſubtilty of the Serpent, as <hi>Eve</hi> in her innocency was, who told her, though ſhe did eat of the forbidden fruit, ſhe ſhould not ſurely dye; and that is his lying voice at this day, whether in Teachers or others, that tells people though they live in ſome ſin, they ſhall be ſaved from the condemning power thereof. So I ſhall proceed in or<g ref="char:EOLhyphen"/>der, as before-mentioned, as the Lord ſhall aſſiſt me by his Spi<g ref="char:EOLhyphen"/>rit, with what elſe may be given me in thereby, even as the Spi<g ref="char:EOLhyphen"/>rit ſhall give to expreſs, in what ſignification God ſhall pleaſe, for the good of all that deſire after him, to whom this may come; the which I commit to the Light in all Conſciences to anſwer to the truth hereof, deſiring all that know me in the outward, not to ſlight it, becauſe of the meanneſs of the outward veſſel that wrote it, but with care to weigh it over, that God's Witneſs in you may anſwer; for God <hi>hath made the poor in this
+<pb facs="tcp:100088:4"/>world, rich in Faith;</hi> and in times paſt, and doubtleſs now alſo, <hi>hath raiſed,</hi> as it were, <hi>things that are not, to bring to nought thoſe things which are</hi> contrary to him, that he may have the Glory to Himſelf alone. But however it may be received or rejected, I ſhall reſt in patience; being content in that I feel am Acceptance with God in this my Obedience to him, which is a ſufficient Reward unto me; who am known to the World by the name of</p>
+            <closer>
+               <signed>John Whithouſe,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:100088:4"/>
+            <head>The Doctrine of Perfection vin<g ref="char:EOLhyphen"/>dicated, &amp;c.</head>
+            <p>The Worlds Queſtion;</p>
+            <p>
+               <hi>VVHether is Perfection, or freedom from all ſin, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> to be attained in this life, or no?</hi>
+            </p>
+            <p>Yea; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> or elſe to no purpoſe was Chriſt made manifeſt in the fleſh, as may hereafter appear: for in the loweſt diſtance or alienation, in the fall from God, we are but the ſervants of ſin; and if by him we are not ſet free from the ſervice there<g ref="char:EOLhyphen"/>of, then what are we ſaved from? or, what are we the better by him? for without him we are but <hi>ſo;</hi> and if he leave us where he finds us (which is to ſay) in ſin, what then is he a Saviour from? or, how doth he effect that which is ſaid of him? For Sin and Imperfection is of the Devil;
+<note place="margin">1 <hi>John</hi> 3.8.</note> for the de<g ref="char:EOLhyphen"/>ſtroying of which, he the Lamb of God that taketh away the ſins of all that believe in his Light and Son of the world, was manifeſted; and if this work be not effected by him, then may we ſay he is <hi>inſufficient,</hi> and comes ſhort of the end for which he was given <hi>for a Light to the Gentiles,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 42.6, 7.</note> and to be <hi>Gods Salvation to the ends of the Earth;</hi> who is the <hi>ſecond Covenant,</hi> which is not ſound faulty, as was the firſt, which made <hi>nothing perfect;</hi> Therefore was it taken away, that the <hi>ſecond,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 7.19.</note> which is the better hope, by which we <hi>draw nearer to God,</hi> might be eſtabliſhed: ſo then, ſhall I conclude with the world, that the firſt made none of the comers thereto perfect, nor the ſe<g ref="char:EOLhyphen"/>cond neither? God forbid.</p>
+            <p>For they who do believe and receive him who is the new and ſecond Covenant, Chriſt Jeſus the true Light, who en<g ref="char:EOLhyphen"/>lightneth every man that cometh into the world; <hi>to them,</hi> as the Scripture ſaith, <hi>he gives power to become the ſons of God, who are not born of fleſh and blood, neither of the will of man,
+<note place="margin">
+                     <hi>Joh.</hi> 1.12, 13.</note> but of God:</hi> and who is ſo born, ſinneth not, becauſe God's Seed,
+<pb n="8" facs="tcp:100088:5"/>Chriſt Jeſus abideth in him,
+<note place="margin">1 <hi>John,</hi> 3.9. <hi>Mal.</hi> 1.21.</note> who is a Saviour thar ſaves his People <hi>from</hi> their ſin, and <hi>not in</hi> it: they who know this, know the Scripture to be true, becauſe it is fulfilled in them; and can truly call Chriſt, Lord, becauſe they do his Will, and not their own, but are dead thereto, and are only alive to God, bringing forth fruits of Righteouſneſs, the end of which is Life and Peace:
+<note place="margin">
+                  <hi>Rom.</hi> 8.3, 13.</note> All which is fulfilled in them, who <hi>walk not after the fleſh, but through the Spirit of Life in Chriſt,</hi> which makes free from ſin and death, and doth mortifie the deeds of the ſame: Theſe are they, who through the <hi>waſhing of Rege<g ref="char:EOLhyphen"/>neration</hi> in the <hi>work of mortification,</hi> come to know and witneſs <hi>a cleanſing from all ſin,</hi> and to have their Robes made white in the blood of the Lamb,
+<note place="margin">
+                  <hi>Heb.</hi> 9.26.</note> who was made manifeſt to put a<g ref="char:EOLhyphen"/>way and make an end of all ſin, <hi>and to perfect for ever thoſe that through the Spirit are thus ſanctified.</hi>
+            </p>
+            <p>
+               <hi>Yea, <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> but</hi> (ſaith the world) <hi>Our Teachers
+<note n="*" place="margin">Rich. Baxter <hi>for one.</hi>
+                  </note> who are learned and wiſe, tell us, this Doctrine of Perfection is a dangerous tenent, and the Doctrine of the Devil, and not of Chriſt nor his Apoſtles; but is a blaſphemous Principle, contrary to the Scriptures.</hi>
+            </p>
+            <p>Now to this, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I ſay, You are not to believe all that your Teachers tell you, but come down to the Light of Chriſt, and hear theſe things tryed by it, and the Scriptures alſo, and hold faſt that which is good. Now this is the Record that God gave of his Son, by his Servant <hi>Moſes,</hi> who propheſied, ſaying,
+<note place="margin">
+                  <hi>Acts</hi> 3.22.</note> 
+               <hi>A Prophet ſhall the Lord your God raiſe up unto you, like unto me, Him ſhall you hear in all things whatſoever he ſaith: And it ſhall come to paſs, That whoſoever will not hear and obey him, ſhall be cut off from the Land of the Living.</hi> And in like manner,
+<note place="margin">
+                  <hi>Mal.</hi> 3.3.</note> to Him gave all the Prophets witneſs, ſaying, <hi>He ſhall come as a Refiners fire, and as Fullers ſope, and ſhall thorowly purge the ſons of</hi> Levi, <hi>that they might offer an Offering to the Lord in Righteouſneſs.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3.12.</note> Alſo <hi>John Baptiſt</hi> bare <hi>witneſs</hi> of him, ſaying, <hi>His Fan is in his hand, and he will thorowly purge his Floor,</hi> (Mark that) not in part, he doth not ſay, but <hi>thorowly.</hi> And now he, the Eternal and Everlaſting true Light, the chief and High-Prieſt over the Houſhold of God, the pure Purger, Perfecter, Cleanſer and Fulfiller of all the Law and the Pro<g ref="char:EOLhyphen"/>phets: Behold, this is his Doctrine, preached by him in the
+<pb n="9" facs="tcp:100088:5"/>dayes of his fleſh, <hi>Be ye perfect,
+<note place="margin">
+                     <hi>Matth.</hi> 9.48.</note> as your heavenly Father is per<g ref="char:EOLhyphen"/>fect:</hi> And now, behold, he is ariſen in many ſons and daugh<g ref="char:EOLhyphen"/>ters by his quickening Spirit, which hath raiſed them out of Sin and Death, and through them is he preaching by Life and Doctrine, the ſame as he lived in, <hi>who is the ſame, yeſterday, to day, and for ever;</hi> who is the perfect Pattern, and finiſhed his courſe in <hi>Perfection,</hi> leaving it an Example, for all that be<g ref="char:EOLhyphen"/>lieve in him to follow. So this is none of the Devil's Do<g ref="char:EOLhyphen"/>ctrine, neither his Command; but the Doctrine and Com<g ref="char:EOLhyphen"/>mand of the Son of God, who is not a hard nor an unjuſt ma<g ref="char:EOLhyphen"/>ſter, requiring that of his ſervants which he gives them not power to do, but it is the ſlothful ſervant that makes not uſe of his talent, but buries it in the Earth, and then complains for want of power; but they who receive the gift of God, God giveth them power to do whatſoever he commandeth, whoſe Commandments,
+<note place="margin">1 <hi>Joh.</hi> 2, 3.1.7.</note> to them that follow him in faithful<g ref="char:EOLhyphen"/>neſs, were not greivous, but joyful; who were waſhed and cleanſed, but not by themſelves, but by walking in the Light, as God was in the Light; ſo came they to witneſs the Blood of his Son to cleanſe them, not from ſome ſin, but <hi>all;</hi> and ſo were made Miniſters, not of the Letter, which killeth, but <hi>of the Spirit, which giveth Life, and quickeneth unto Perfection,</hi> and laboured to bring men thereto, that they might preſent <hi>every man perfect in Chriſt,</hi> in whom there is no ſin; for he was not ſent to be a cloak to cover ſin under his righteous garment, but to deſtroy it, and take it away, ſlaying the car<g ref="char:EOLhyphen"/>nal or fleſhly mind which warreth againſt the ſoul, working ſin in the members, upon the Croſs which is ſpiritual, or all ſpirit; which Croſs worketh inwardly, <hi>bringing into ſubjection every vain thought and imagination,</hi> taking every motion of evil in the conception, and ſo deſtroyes it there before it be acted or conſented to; which every one that receives him in his Light, which maketh all things manifeſt, ſhall come to witneſs, even a dying with him to the fleſh, from whence comes ſin, and then quickning by the Spirit with Chriſt unto Righteouſneſs. This is the firſt Reſurrection, <hi>to ariſe out of Sin into Perfection with Chriſt,</hi> the which except a man be made a partaker of in this life, the ſecond death will have power over him.</p>
+            <pb n="10" facs="tcp:100088:6"/>
+            <p>So by all this it appears, that Chriſt is the Miniſter of <hi>Per<g ref="char:EOLhyphen"/>fection,</hi> who preached it more clear and exacter than it was in the Law;
+<note place="margin">
+                  <hi>Matth.</hi> 5.28.</note> who ſaid, if a man luſt to do any thing, he is guilty as if he did it; which the Law without was too weak to find out; and ſo became a ſtrengthner of the Law, which requireth <hi>Perfection:</hi> and alſo for the effecting of this he gave gifts to his Apoſtles and Miniſters, ſome he made Prophets, ſome Teachers and Evangeliſts, others Paſtors, and the like, for the finiſhing of the work which he had begun, which was, to perfect all the Members of his Body, the Church, that they might all come to the meaſure, and ſtature, and fulneſs of him who was <hi>perfect,</hi> and is the <hi>perfecter</hi> of all that believe in him, who is the Light that ſhines in darkneſs; and theſe Apoſtles brought ſome,
+<note place="margin">
+                  <hi>Rom.</hi> 6.18.</note> by turning them from darkneſs to this Light, to witneſs freedom from ſin, and had their fruits unto holi<g ref="char:EOLhyphen"/>neſs, and the end everlaſting life: and alſo, thoſe who had not attained to this eſtate,
+<note place="margin">1 <hi>Pet.</hi> 1.15.</note> they did not tell them they never ſhould in this life, but exhorted them to <hi>go on to Perfection,</hi> giving them many Commands to that end, warning and tea<g ref="char:EOLhyphen"/>ching every man in all wiſdom, that they might preſent them<g ref="char:EOLhyphen"/>ſelves <hi>perfect in Chriſt,</hi> in whom there is no ſin nor ſinners: for they that are in him, are new created in Righteouſneſs and true Holineſs, which is <hi>without ſin,</hi> and all things in them are of God, being all made new by the Son of God who ſits upon the Throne as a Refiners fire, which conſumes all the droſs and takes away the tin, and then ſin muſt needs be done away, for that's of the Devil. Now for this end did <hi>Paul</hi> ſtrive and labour mightily,
+<note place="margin">
+                  <hi>Heb.</hi> 13.21. <hi>Jam.</hi> 1.4.</note> both praying and deſiring God to make them <hi>perfect in every good work.</hi> And likewiſe <hi>James,</hi> in the tryal of their Faith, exhorted them to keep in the pati<g ref="char:EOLhyphen"/>ence, and let it have its <hi>perfect work,</hi> that they might be <hi>per<g ref="char:EOLhyphen"/>fect and entire, wanting nothing. Peter</hi> alſo in his exhortati<g ref="char:EOLhyphen"/>on, wherein he ſtirs them up by way of remembrance, to go on unto the end, and not faint by the way; neither to live in the faſhions of the world, nor luſts of the fleſh; but com<g ref="char:EOLhyphen"/>mands them <hi>to be holy in all manner of converſation, as he that hath called them is holy;</hi>
+               <note place="margin">1 <hi>Pet.</hi> 1.16.</note> (The reaſon why? ſaith he) becauſe it is written, <hi>Be ye holy, for I am holy;</hi> (Mark that) He doth
+<pb n="11" facs="tcp:100088:6"/>not ſay this Command is taken away, neither too hard to be fulfilled. To the ſame effect <hi>John,</hi> the bleſſed Diſciple, to the little Children, warned them not to deceive themſelves, by ſaying they had no ſin before they were cleanſed there<g ref="char:EOLhyphen"/>from, but that they ſhould confeſs it to God, then he would forgive it them; and not only ſo,
+<note place="margin">1 <hi>John</hi> 1.7, 8, 9.</note> but <hi>if they walked in the Light, as he is in the Light,</hi> then <hi>their fellowſhip ſhould be with him, and the Blood of Jeſus Chriſt his Son ſhould cleanſe them from ALL Sin.</hi>
+               <note place="margin">1 <hi>Joh.</hi> 3.8, 9, 10.</note> He then exhorts them not to be deceived by any man, telling them, <hi>he that doth Righteouſneſs, is righteous, even as Chriſt is righteous;</hi> and that he that hath the living true Faith in him, <hi>purifies himſelf, even as he is pure;</hi> ſaying, <hi>he that commits ſin, is of the Devil, for he ſinned from the beginning: but he that is born of God, ſinneth not, neither indeed can he, be<g ref="char:EOLhyphen"/>cauſe God's Seed remains in him,</hi> which is Chriſt the Light, which ſaves from ſin. And then he gives a mark to know the Children of God from the children of the Devil, ſaying, <hi>Whoſoever doth not Righteouſneſs, is not of God, but of the Devil,</hi> as his words before ſignifie; and alſo, <hi>if a man ſayes, he knows Chriſt,
+<note place="margin">
+                     <hi>Mat.</hi> 5. <hi>laſt.</hi>
+                  </note> and keeps not his Commandments</hi> (one of which is to be <hi>perfect) he is a lyar, and the truth is not in him; for he that ſaith he abideth in him, ought himſelf ſo to walk, even as he walked: For he that ſinneth, and abideth not in his Doctrine,
+<note place="margin">2 <hi>Joh.</hi> 9.</note> hath not God, but denies, and is denied of both the Father and the Son,</hi> let him ſay and profeſs what he will. Alſo, the Spirit ſpeaking to one of the Churches, found fault, becauſe their works were <hi>not perfect before God,
+<note place="margin">
+                     <hi>Rev.</hi> 3.4.</note> who is of purer eyes than to behold iniquity;</hi> bidding them therefore to repent and be watchful, becauſe there was ſomething wanting.</p>
+            <p>Wherefore the Spirit cryeth this day through me, Awake, awake ye ſluggards, ariſe, ariſe ye careleſs ones, who are at eaſe in ſin, and have taken up your reſt in iniquity; for the Son of Righteouſneſs is riſen, and the Day of Holineſs is dawned, therefore God requireth all men to repentance, and to bring forth fruits meet thereto; for the night of ignorance, where<g ref="char:EOLhyphen"/>at he winked, is paſt, and he is ariſen in his mighty Power who will no longer be ſilent, but will cry like a travelling woman, who will not ceaſe till the Birth is brought forth,
+<pb n="12" facs="tcp:100088:7"/>which is to eſtabliſh Judgement and Righteouſneſs in the Earth, that he alone over all may be exalted; therefore will he ſearch the whole Earth with his pure candle of Light, and will make the ſinners in <hi>Sion afraid, and fearfulneſs ſhall ſur<g ref="char:EOLhyphen"/>prize the hypocrites, and none ſhall abide before him who is a con<g ref="char:EOLhyphen"/>ſuming fire, nor dwell with everlaſting burnings; but he that walk<g ref="char:EOLhyphen"/>eth in Righteouſneſs and ſpeaketh uprightly,
+<note place="margin">
+                     <hi>Pſa.</hi> 15.1, 2, 3.</note> and deſpiſeth the gain of oppreſſion, and holdeth his hands from bribes, his eyes from ſee<g ref="char:EOLhyphen"/>ing of evil, and his ears from hearing of blood; it is he that ſhall dwell on high, his place of defence ſhall be the Name of the Lord, which is the Refuge of the Righteous, his eyes ſhall ſee the King of Sion in his beauty:</hi> and therefore let all people fear God, and give glory to him, for the hour of his Judgment is come, wherein he will be avenged upon all the Inhabitants of the Earth, who are made drunk with the Wine of Fornication, in <hi>Babylon the Myſtory of Iniquity,</hi> which the Lord God in his Almightineſs is ariſen to deſtroy; and therefore if any man follow the Beaſt, which is that <hi>unclean nature</hi> which polluteth man, or receives and keeps his Mark, which is <hi>Sin,</hi> the ſame ſhall drink of the Wine of the Wrath of God, which is poured forth without mixture into the Cup of his Indignation, and he ſhall be tormented with fire and brimſtone in the preſence of the holy Angels, and of the Lamb of God; who would have taken away their ſin by his Light of Life, but they would not believe therein,
+<note place="margin">
+                  <hi>Joh.</hi> 3.19.</note> 
+               <hi>but loved the darkneſs rather, becauſe their deeds were evil:</hi> but bleſſed are they that believe therein, and follow it, for it's they only <hi>that die in the Lord,</hi> and <hi>reſt from their labour, and their works do follow them,</hi> ſaith the Spirit, <hi>Revel.</hi> 14.13.</p>
+            <p>But now to the thing before-mentioned. It's plainly ma<g ref="char:EOLhyphen"/>nifeſt, that the Doctrine of <hi>Perfection</hi> is of God; commanded by him, and preached by his Son, whom the Prophets pro<g ref="char:EOLhyphen"/>pheſied ſhould come to that end, and witneſſed by his Apo<g ref="char:EOLhyphen"/>ſtles and Miniſters, who have left in the Scriptures of Truth their Teſtimony concerning the ſame, which as a Cloud of Witneſſes, doth teſtifie for and to the ſame, far exceeding more than I have here mentioned.</p>
+            <p>By all which it appears, that your Miniſters are not of
+<pb n="13" facs="tcp:100088:7"/>Chriſt, notwithſtanding all their wiſdom and learning, but contrary to him and his Miniſters,
+<note place="margin">
+                  <hi>Iſa.</hi> 40.3.</note> and the true Prophets who foretold of Him, and the glory of his Day: Therefore the concluſion muſt needs be, They are of the falſe Prophets ſpi<g ref="char:EOLhyphen"/>rit, and conſequently of Antichriſt; wherefore I ſhall men<g ref="char:EOLhyphen"/>tion a little, according to Scripture, how they are one in this very thing, with the falſe Prophets and Antichriſtian Sedu<g ref="char:EOLhyphen"/>cers which were in the world in the Apoſtles days, and which they propheſied ſhould come in the latter days, after their de<g ref="char:EOLhyphen"/>ceaſe. Now in the firſt place, in the dayes of old, God by the mouth of his Servants, cryed againſt falſe Prophets and Prieſts, who were from the greateſt to the leaſt all given to <hi>covetouſneſs, every one dealing falſly,
+<note place="margin">
+                     <hi>Jer.</hi> 23.14, 17. <hi>Micah</hi> 3.5, 13. <hi>Ezek.</hi> 10.11, 12, 13 14, 15, 16</note> in healing the hurt of the danghter of his People ſlightly, crying peace to thoſe that put into their mouth, when there was no peace: So they ſtrengthned the hands of the wicked, that they ſhould not turn from their evil wayes, but promiſed them life therein; and ſo ſeduced the people, and cauſed them to erre, by their lyes, and by their lightneſs; one building a wall, and another daubed it with untempered mortar,</hi> which would not ſtand in the overflowing ſhower of the Wrath of God.</p>
+            <p>So in like manner, your Teachers through covetouſneſs and ſelf-ends have ſpoken ſmoothly to you, telling you of the Mercy of God,
+<note place="margin">2 <hi>Pet.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> through which your ſins ſhould be forgiven you, though you lived in them, and with the Serpent's voice have ſaid, though you eat of the forbidden fruit which is ſin, <hi>yet ye ſhall not die;</hi> ſo here in your unſound conditions, even like a rotten wall, they have daubed you with untempered mortar, which will not ſtand you in any ſtead when the Lord by his pure Light in your Conſciences, comes to ſearch you with Judgment, then your daubing will not hide you from the Wrath of the Lamb; no, no, then all their ſmooth words, and untempered doctrine, which they have invented to pleaſe you for ſelf-ends, telling you of Heaven &amp; what a happy glo<g ref="char:EOLhyphen"/>rious place it is, wil all flie away from you, and them alſo, who have led you in blindneſs, and have cauſed you to erre from the Voice of God, to follow the voice of the Serpent, who led man into ſin, and ſo blinded his mind that he might cauſe
+<pb n="14" facs="tcp:100088:8"/>him never to find the way to God again, which is a way of Holineſs in which the unclean cannot walk: So I ſay, if you will not come out from amongſt them, and be ſeparated from the unclean thing, which is ſin, and own and receive the Light of Chriſt, that it may ſearch all your wounds and pu<g ref="char:EOLhyphen"/>trifying ſores, from the crown of your heads to the ſoals of your feet, that ſo he may waſh you thorowly, and baptize you with fire, and burn up all that is contrary to his <hi>pure Life in you:</hi> I ſay, except this you come to and witneſs, with you blind guides you muſt fall into the ditch.</p>
+            <p>Now I ſhall come to ſpeak a little of the Deceivers which Chriſt and the Apoſtles ſpoke of in their dayes. Firſt, Chriſt ſaid,
+<note place="margin">1 <hi>Joh.</hi> 3.8.</note> 
+               <hi>Beware of falſe Prophets, which come unto you in ſheeps clo<g ref="char:EOLhyphen"/>thing, but inwardly are ravening wolves: ye ſhall know them by their fruits.</hi> Now we know that ſin is a mark of the Devil, or a fruit of an evil tree; likewiſe <hi>Perfection</hi> is a mark of God, for he is <hi>perfect,</hi> and it's the fruit of a good tree; ſo they who are in ſin, and plead it for doctrine, that they can never be out of it whilſt in this life, are the evil trees, becauſe they bring forth ſuch fruit as this, which a good tree cannot bring forth. Alſo <hi>Paul</hi> ſaid, that the Spirit ſpake expreſly, <hi>that in the latter times ſome ſhould depart from the Faith,
+<note place="margin">1 <hi>Tim.</hi> 4.1.</note> giving heed to ſeducing ſpirits, and doctrines of Devils, ſpeaking lyes in hypo<g ref="char:EOLhyphen"/>criſie, having their conſciences ſeared with a hot iron.</hi> Now mark, Is not this the doctrine of the Devil, that though men live in ſin they ſhall not be damned, but ſhall eſcape the condem<g ref="char:EOLhyphen"/>ning power thereof? did not the Devil himſelf preach this firſt,
+<note place="margin">
+                  <hi>Gen.</hi> 3.4.</note> when he ſaid, <hi>Ye ſhall not ſurely dye, though you eat of the forbidden tree?</hi> and are not they who maintain this for truth, thoſe, whoſe conſciences are ſeared and hardned againſt the Voice of God, even to ſpeak lyes in hypocriſie againſt his Spirit, which condemns ſin in the fleſh? And alſo, he fur<g ref="char:EOLhyphen"/>ther ſaith this;
+<note place="margin">2 <hi>Tim.</hi> 3.1, 2, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Know that in the laſt dayes perilous times ſhall come; for men ſhall be lovers of their own ſelves, covetous, boa<g ref="char:EOLhyphen"/>ſters, proud, blaſphemers, falſe accuſers, without natural affection, truce-breakers, fierce, deſpiſers of thoſe that are good; heady, traiterous, high-minded, lovers of pleaſures more than lovers of God; having a form of Godlineſs, but denying the power thereof.
+<pb n="15" facs="tcp:100088:8"/>Now of this ſort are they that creep into houſes, leading captive ſilly women, laden with ſin, led away with divers luſts; ever learn<g ref="char:EOLhyphen"/>ing, and never able to come to the knowledge of the truth.</hi>
+            </p>
+            <p>Now it ſeems, that theſe proud, covetous, high-minded men, who were fierce, deſpiſers of thoſe that are good, had a <hi>form of Godlineſs,</hi> like many now, who <hi>deny the power thereof,</hi> even as thoſe did; for the power of God, or of Godlineſs, makes all thoſe that have it, free from the power of the De<g ref="char:EOLhyphen"/>vil, whoſe power leads man captive at his will, doing his work, which is ſin, which all who have the <hi>form,</hi> and not the <hi>power,</hi> are ſervants to; <hi>for he that commits ſin, is the ſervant of ſin,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 8.34</note> and he that ſerves it, the Devil is his maſter:
+<note place="margin">
+                  <hi>Rom.</hi> 6.16.</note> 
+               <hi>for his ſervants ye are to whom ye obey;</hi> and he that ſerves him, cannot ſerve Chriſt, nor is a Child of God; for <hi>ye cannot ſerve God and mammon,</hi> neither <hi>two maſters,</hi> ſaith Chriſt. So it's certain we muſt be of the one, for we cannot be of both. And now alſo, who is it that be ever learning, and never comes to know the Truth, but thoſe that never knew a freedom from ſin, neither do believe they ever ſhall in this life? for Chriſt ſaid, <hi>if you continue in my Doctrine, then ſhall you know the Truth,
+<note place="margin">
+                     <hi>Joh.</hi> 8.31, 32, 33, 34.</note> and the Truth ſhall make you free.</hi> But the <hi>Jews</hi> replied, ſaying, <hi>We were never in bondage to any man.</hi> But ſaid Chriſt, <hi>He that com<g ref="char:EOLhyphen"/>mits ſin, is the ſervant of ſin.</hi> So it appears, that they who are overcome with ſin, and led away with divers luſts, are not come to know Chriſt the Truth, who ſets free from ſin; and they are the <hi>creepers into houſes,</hi> who lead ſilly people in <hi>blind<g ref="char:EOLhyphen"/>neſs, laden with ſin,</hi> and tells them they can never be eaſed of the burden thereof in this life; yet promiſes them liberty and freedom in the life to come, whilſt they are the ſervants of corruption in this life: Are not theſe the <hi>filthy dreamers</hi> that <hi>defile the fleſh, who are ſenſual and deviliſh,
+<note place="margin">
+                     <hi>Jude,</hi> 10, 11.</note> knowing nothing but what they know naturally, in which they corrupt themſelves?</hi> (which is to ſay) in their outward learning, which though it be <hi>Hebrew, Greek</hi> and <hi>Latine,</hi> yet it is all but natural, even as Engliſh is, which a child may learn of its parents; ſo like<g ref="char:EOLhyphen"/>wiſe all other tongues are learned of men: but the <hi>true know<g ref="char:EOLhyphen"/>ledge of God</hi> is onely learned in and by the Spirit. Are not theſe alſo thoſe, who with <hi>fair words and ſmooth ſpeeches deceive
+<pb n="16" facs="tcp:100088:9"/>the hearts of the ſimple by their great ſwelling words of vanity,</hi> which they invent to pleaſe ſuch who have <hi>itching ears,</hi> that <hi>cannot away with ſound Doctrine,</hi> but love to be daubed up ſlightly; who cannot endure to hear of coming out of ſin in this life, and yet would have Heaven in that which is to come: I ſay, ſuch Teachers as theſe are of Antichriſt, whom <hi>Jude</hi> ſaith <hi>were clouds without water,</hi>
+               <note place="margin">
+                  <hi>Jude</hi> 12.</note> which is, to have a ſhew of Godlineſs, but have not his Life abiding in them, but their hearts are exerciſed with <hi>covetous practices,</hi> and for ſelf-ends admire ſome mens perſons for their own advantage, who themſelves could not ceaſe from ſin: theſe are the murmur<g ref="char:EOLhyphen"/>ers and complainers,
+<note place="margin">
+                  <hi>Phil.</hi> 3.19.</note> who walk after their own ungodly luſts, minding earthly things, whoſe god is their belly.</p>
+            <p>This was the fruit of the ſpirit of Antichriſt that the Apo<g ref="char:EOLhyphen"/>ſtles ſaid ſhould come, and was come in their dayes, by which we know that thoſe who bring forth ſuch fruits are of the ſame ſpirit in theſe our dayes; the conſideration of which I ſhall leave to the Witneſs of God in all people, that they thereby might come to ſee whether thoſe that deny the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Perfection,</hi> and plead for <hi>ſin</hi> term of life, do not in all, or many of theſe things, agree with the Antichriſts and falſe Prophets that are mentioned in Scriptures? and ſo the concluſion unavoidably will be this, They are not of God, but of the world, which lieth in wickedneſs, and therefore the world heareth and followeth them.</p>
+            <p>
+               <hi>Yea, <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> but</hi> (ſaith the world) <hi>though we do not believe, we can be perfectly freed from all ſin in this life; yet we do not believe that we muſt or may live in ſin wilfully, neither do our Teachers tell us we ſhall be ſaved if we do; but they tell us we muſt ſtrive againſt it what we can, and then we ſhall be accepted through Chriſt, for he hath taſted death for us, and ſo hath made a way for all that can believe he died for their ſin, and roſe again for their Juſtifi<g ref="char:EOLhyphen"/>cation, to be accepted through his Righteouſneſs, which ſhall be im<g ref="char:EOLhyphen"/>puted for ours; and though we live in ſome ſin which is condem<g ref="char:EOLhyphen"/>ned by the Law, yet hath he by his Death delivered us from the condemning power of ſin and the Law, the force of which he hath taken away; for</hi> we are not under the Law, but under Grace.</p>
+            <pb n="17" facs="tcp:100088:9"/>
+            <p>To this I anſwer. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Although they teach you to abſtain from wilful ſinning, yet in teaching that you can never be free from all, cauſeth many to give up to temptations, and to give place to the Devil; and then if the Witneſs of God reprove them for ſo doing, they flie back in their minds from it, and ſtrengthen themſelves in their unclean faith againſt it, and ſo reject the Light and Power of God, which is it onely that ſaves from ſin; and ſo though you ſtrive againſt it what you can in this ſtate, all your ſtriving is in vain, being onely in your own wills, and altogether of your ſelves, having re<g ref="char:EOLhyphen"/>jected, through diſobedience, the Power of God, which in his mercy is freely offered unto all, in the Light of his Son, to redeem them from that wherein they are held in bon<g ref="char:EOLhyphen"/>dage, which is ſin; I ſay, denying it, and counting it an un<g ref="char:EOLhyphen"/>certain and inſufficient thing, you are never able to overcome the Enemy in your own ſtriving; for if you could, then you had no need of a Saviour to deſtroy the works of the Devil for you, which is ſin, and to ſave you therefrom, which was and is the end of his coming in the fleſh, even in the hearts of all people, to condemn ſin there; and alſo for this end he died to the fleſh once, and was made an Offering, to put an end to all the Types,
+<note place="margin">
+                  <hi>Rom.</hi> 3.25.</note> Sacrifices and Shadows of the firſt Law and Prieſthood, and ſo took away all the <hi>hand writing of Or<g ref="char:EOLhyphen"/>dinances, making an Atonement for ſins paſt, that forgiveneſs might be preached to and in all that receive him, and walk in his Light;</hi> which was not to be found in, nor by the outward Law, for it being once tranſgreſſed, there remains nothing but condemnation: So mercy and forgiveneſs came by <hi>Jeſus the Saviour,</hi> (and <hi>not by the Law</hi>) without whom none could be ſaved; becauſe all had and have tranſgreſſed, and come ſhort of fulfilling the Law; therefore all your ſtriving, whilſt you <hi>reject</hi> Chriſt the Light, which makes ſin manifeſt, in whom the Law of the Spirit of Life is witneſſed, which ſets free the ſoul through the adminiſtring of death unto, and condemning that in man which warreth againſt it, by bringing it into captivity unto ſin, through which comes death; I ſay, though you may ſtrive with all your might, which indeed is but weakneſs, you will never get dominion over ſin, becauſe you
+<pb n="18" facs="tcp:100088:10"/>in denying the Light, miſs of the Power which only redeems out of the bondage thereof; which Power doth accompany that which reproves for, and condemns ſin in the fleſh; to which, except you become ſubjects unto, neither freedom from ſin, nor the righteouſneſs of the Law (which is <hi>Perfecti<g ref="char:EOLhyphen"/>on</hi>) you will never come to witneſs; and ſo though you be<g ref="char:EOLhyphen"/>lieve he died for your ſin, yet unleſs you come to know him to ariſe in you, to deſtroy it and take it away inwardly, and thereby to fulfil the Law of Righteouſneſs in you, and ſo to mortifie the deeds of the fleſh, which breaks the Law by his powerful Spirit, that you may follow it, and your fruits may be unto Righteouſneſs, and you dead to the fruits of the fleſh, which is ſin, all your belief will avail you no more than the <hi>Jews</hi> unbelief did them, which rather added to their con<g ref="char:EOLhyphen"/>demnation than otherwiſe.</p>
+            <p>Therefore all come down to that of God made manifeſt in you, and receive it with a willing mind, and then you will feel it giving you that power, which by all your own willing and ſtriving out of it, you could never obtain, even to become the Sons of God, and to know his Seed brought forth in dominion, in you to abide, and then you will come to know what that ſtate was in which they were that could not ſin,
+<note place="margin">1 <hi>John,</hi> 3.9.</note> 
+               <hi>becauſe they were born of God, and his Seed remains in them,</hi> by which they were kept, ſo that the wicked one toucheth them not; becauſe greater was he that was in them, than he that was in the world: So unleſs you feel this wrought in you by him, all your talk of him and his Righteouſneſs will do you no good: for as long as you commit ſin, the filth will follow it, and the condemning of that which condemns ſin in the fleſh will follow you to the end of your race, by which a fire will be kindled where the worm will never die, neither goes it out; and the Law againſt ſin you will find to have its full force then, becauſe you rejected the Light through diſo<g ref="char:EOLhyphen"/>bedience, which would have deſtroyed for you that which tranſgreſſed the Law in you, and as you had yeelded in obe<g ref="char:EOLhyphen"/>dience to it, it would have fulfilled the Law in you, by bring<g ref="char:EOLhyphen"/>ing forth fruits of holineſs which the Law requireth; and all your thoughts of being from under the Law, will prove vain;
+<pb n="19" facs="tcp:100088:10"/>for it is ſaid to be a <hi>Schoolmaſter</hi> to bring unto <hi>Chriſt</hi> the Light and Lamb of God, who takes away ſin; the which,
+<note place="margin">
+                  <hi>Gal.</hi> 3.24.</note> except you are brought to, and by him cleanſed, you will find the Law to ſtand in full force over you, you being out of him who ends that which tranſgreſſeth it,
+<note place="margin">
+                  <hi>Jam.</hi> 2.10.</note> even by <hi>ſlaying it upon the Croſs,</hi> which is the Power of God, which <hi>over-comes,</hi> or rather <hi>comes over,</hi> and ſo brings under the power of the De<g ref="char:EOLhyphen"/>vil, which keeps man in bondage in ſin: ſo when you come to know this, you will ceaſe remembring his death at <hi>Jeruſalem,</hi> and will come to ſee how he hath been cru<g ref="char:EOLhyphen"/>cified in you, and what it is that hath crucified him;
+<note place="margin">
+                  <hi>Rom.</hi> 6.10.</note> and not onely ſo, but will know a dying with him to the fleſh and the fruits thereof; and then ſhall you be quickened with him in the <hi>Spirit of Life,</hi> in which you will live unto God, which you will truly know when he comes to ariſe from the dead in you, and to lead that captive which hath held him in captivity, and oppreſſed him as a cart with ſheaves, who while you go aſtray <hi>bears the iniquity of you all,</hi> and is cru<g ref="char:EOLhyphen"/>cified in that place which ſpiritually is called <hi>Sodom</hi> and <hi>Egypt;</hi> (reade <hi>within</hi> and feel what I ſay) then will you come to <hi>mourn over him whom you have pierced:</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 1.7.</note> And this ve<g ref="char:EOLhyphen"/>rily I ſay unto you, except you know his Crucifixion and Re<g ref="char:EOLhyphen"/>ſurrection nearer you than <hi>Jeruſalem,</hi> even in you, and ari<g ref="char:EOLhyphen"/>ſing with him out of the grave of ſin and death, and a living to God in the Spirit of Holineſs, which ſets free from ſin; all your talking of his dying for your ſin, and ariſing for your ju<g ref="char:EOLhyphen"/>ſtification, while you have lived in ſinning againſt his Light in your Conſciences, will never profit you any thing:
+<note place="margin">
+                  <hi>Epheſ.</hi> 5.14.</note> 
+               <hi>There<g ref="char:EOLhyphen"/>fore ariſe thou that ſleepeſt in ſin, and ſtand up to Judgment,</hi> and hearken to that which calls out of ſin, which is the Spirit of Truth, and <hi>it will give thee life,</hi> if through <hi>death</hi> thou wilt follow it; for no other way is there to come to life, but tho<g ref="char:EOLhyphen"/>row death to that which leads thee from God;
+<note place="margin">
+                  <hi>Gal.</hi> 3.19.</note> therefore take up the Croſs, and kiſs the Rod, and it will whip thee out of ſin, and a new work in thee will begin: Thoſe that know this death, are not under the Law, but under Grace; for the Law was added becauſe of tranſgreſſion, in which if a man live, and it live in him, then is he under the Law: for it takes hold
+<pb n="20" facs="tcp:100088:11"/>on a man ſo long as he lives in ſin, which is the tranſgreſſion thereof;
+<note place="margin">
+                  <hi>Tit.</hi> 2.11.</note> but he that is dead to ſin, is not under it, but is come to the Grace of God, which leads him <hi>out of ſin, and teacheth him to live godly and righteouſly in this preſent evil world:</hi> ſo then by Grace ſin is done away, and the Law ful<g ref="char:EOLhyphen"/>filled, which requires a holy life, which is brought forth in and through all that receive the Power of God, which in Chriſt the Light is offered freely to all, <hi>that he might be all in all both to will and to do</hi> that which man of himſelf could in no wayes do; he having loſt his firſt eſtate in which he had po<g ref="char:EOLhyphen"/>wer over all things, being fain into the bondage of the Devil, and captivated by him at his will: therefore God in his end<g ref="char:EOLhyphen"/>leſs Love to loſt man,
+<note place="margin">
+                  <hi>Rom.</hi> 8.3, 4.</note> ſent his Son a Light into the world, <hi>who for ſin condemneth ſin in the fleſh,</hi> which the Law without was too weak to do, that the Righteouſneſs of it might be fulfilled in all that obey and follow him: Now ſuch can truly witneſs he comes not to deſtroy the Law, but to fulfil it in and for them, which Law requires <hi>Perfection</hi> and <hi>Holineſs,</hi> without which a man ſhall never ſee God.</p>
+            <p>But ſaith the World, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>Yea, perfect in part, ſo are accepted a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wholly perfect through Chriſt.</hi>
+            </p>
+            <p>Nay, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> not in part ſay I, but wholly, even <hi>entire, wanting nothing;</hi> for the Law requires not a part, but the whole; and it is not a <hi>Perfection</hi> inferiour to what the Law requires, but even the ſame, if not a better, that we are to be brought to by the power of the Lamb of God, who takes away the im<g ref="char:EOLhyphen"/>perfection of all that walk in his Light; or elſe it cannot be ſaid he fulfills it, but leaves it unfulfilled, and hath made a way by which man ſhal eſcape the condemnation of it, though he live in tranſgreſſion thereof, which was not the end of his coming in the fleſh, that man ſhould be accepted perfect, be<g ref="char:EOLhyphen"/>cauſe he lived in perfection; but that the ſame perfect, in<g ref="char:EOLhyphen"/>nocent, harmleſs life, might be brought forth by the opera<g ref="char:EOLhyphen"/>tion of his Life, which is the Light of men, in our mortal bodies; herein lies the acceptance, if he come thus to live in us, to make our ſinful bodies conformable to that Body of his,
+<note place="margin">2 <hi>Cor.</hi> 5.17.</note> which was the <hi>perfect pattern;</hi> then are we in him, ac<g ref="char:EOLhyphen"/>cording as it is ſaid, <hi>He that is in Chriſt, is a non creature; old
+<pb n="21" facs="tcp:100088:11"/>things are paſſed away, and all is become new,</hi> and all things are of God, then that which is of the Devil is done away. So here <hi>perfection in part</hi> will not ſtand nor agree with this Doctrine; for it is manifeſt, if we are in Chriſt,
+<note place="margin">
+                  <hi>Jam.</hi> 1.4.</note> then the intireneſs is known, where nothing is wanting, becauſe all things are of God who is perfect; but this work is not by ſelf, neither by man's own <hi>willing</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <hi>running, but of God that ſhews mercy;</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 1.27. 1 <hi>Cor.</hi> 1.30. 2 <hi>Cor.</hi> 4.7.</note> which mercy is Chriſt the Light, in all that receive him <hi>the hope of Glory, who is made unto them wiſdom and power,</hi> to mor<g ref="char:EOLhyphen"/>tifie and juſtifie, to kill and to make alive, even to work all their works in them and for them, which was the treaſure that the Apoſtles had in their earthen veſſels; that the excel<g ref="char:EOLhyphen"/>lency of the Power might be of God, and not of them; the which work muſt be witneſſed in this life, for after the de<g ref="char:EOLhyphen"/>parture hence,
+<note place="margin">
+                  <hi>Heb.</hi> 3.7, 8.</note> there is no putting off the old man with his deeds: <hi>Therefore, while it is called to day, harden not your hearts,</hi> but ariſe, and awake to Righteouſneſs, and hearken to that which knocks at the door of your hearts, calling to repentance;
+<note place="margin">
+                  <hi>Rev.</hi> 3.20.21.27.</note> for <hi>nothing that defiles,</hi> or is defiled, <hi>muſt enter with the Lamb into the Kingdom of Glory;</hi> And if your heads lie down in ſin, and in it you end your race, even ſo will your reſt be; in your old garments you will be found, which the Lord, <hi>who is of purer eyes than to behold iniquity,</hi> hath no pleaſure in, neither will receive you, unleſs your garments are made white in the blood of the Lamb, which clenſeth all, who walk in his Light, from ſin; which was witneſſed by the Apoſtles, who walked therein in this world, which made them bold againſt the day of Judgment; becauſe, as he was, even ſo were they, which is agreeable to Chriſt's own words, who ſaid, <hi>He that is per<g ref="char:EOLhyphen"/>fect, ſhall be as his Maſter;</hi> the which if you witneſs not before you go hence, all your hopes of it hereafter wil be as a dream, wherein a man thinks he is drinking, but when he awakens, lo he is dry; Even ſo all your dreams of entring into Holi<g ref="char:EOLhyphen"/>neſs with Chriſt, or having his Righteouſneſs imputed for yours, whilſt you have lived in unrighteouſneſs, will all paſs away as a viſion of the night, or as a dream which cometh to nothing.</p>
+            <p>And for the further proof of this point in hand, <hi>the Doctrine
+<pb n="22" facs="tcp:100088:12"/>of Perfection,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 1.1</note> give ear a little to the Light of Chriſt, the faith<g ref="char:EOLhyphen"/>ful and true Witneſs, even <hi>the Word that was in the beginning,</hi> before ſin was brought forth,
+<note place="margin">
+                  <hi>Rom.</hi> 10 8.</note> which in the Scripture is called <hi>the Word nigh in the heart, and in the mouth,</hi> which <hi>Paul</hi> prea<g ref="char:EOLhyphen"/>ched;
+<note place="margin">
+                  <hi>Joh.</hi> 15.26.</note> and <hi>the Spirit of Truth, which convinceth the world of ſin,</hi> which is infallible, and cannot change, nor err, but keeps its unity with God, of whoſe nature it is: Behold, I bear a Teſtimony againſt all ſin, ſaith the Light, whatever is re<g ref="char:EOLhyphen"/>proved is made manifeſt by me, and in righteous Judgment I ſeal the Condemnation upon every ſoul of man that doth evil; for I never conſented to any ſin ſince the day that man tranſgreſſed againſt me in the beginning, but have kept my Unity with my Father in purity; though man fell, yet not me, I ſpare no ſin great nor ſmall, but by me it is condem<g ref="char:EOLhyphen"/>ned all, neither ſpeak I peace to any therein, telling them they ſhall be ſaved from the Wrath to come, though they live in ſome ſin; though man's ear which ſhould have heard my Voice, hath been ſtopped by the Devil, and his eye kept blind by the god of the world, ſo that he hath not known my Voice nor ſeen my Shape; and though I have knockt at the door of his heart, yet he would not open to me, but loved the voice of the Serpent better, who hath taught many to teach this for Truth, That he muſt have ſome part in their hearts as long as they live on the earth, and yet notwithſtanding they ſhall be ſaved; but behold they ſhall find it a lie, and I will make them to know, it was never ſpoken by me, in the day when I ſhall judge the ſecrets of all hearts, when none ſhall be able to ſtop my Mouth, nor hinder my Voice; Then will I kindle a Fire that ſhall never go out, and quicken a Worm which ſhall gnaw eternally; then ſhall they remember how I ſhewed them the evil of their wayes, and ſet their ſins in order before them, but they would not hearken unto me, neither regard reproof, but ſtopped their hears at my Voice, and cloſed their eye-lids at the ſhining of my Light,
+<note place="margin">
+                  <hi>John</hi> 3.19, 20.</note> loving the darkneſs rather, becauſe their deeds are evil; therefore the wages of ſin ſhall be their portion in the pit of death for ever.</p>
+            <p>Wherefore, thus ſaith the Light that ſhines in darkneſs,
+<pb n="23" facs="tcp:100088:12"/>Come all ye workers of iniquity, and ſtand in your ranks to<g ref="char:EOLhyphen"/>gether, and let me reaſon with you a little; O ye Murderers and envious ones, ye Thieves and covetous of other mens goods; ye Swearers, Lyars, and falſe-witneſs-bearers, Co<g ref="char:EOLhyphen"/>zeners, Cheaters, and uſers of any diſſimulation whatſoever, with all you proud luſtful ones; and all you Gameſters, and vain boaſters, Singers and rejoycers in that which your own vain minds have invented; and all fooliſh jeſters and ſpeak<g ref="char:EOLhyphen"/>ers of idle words whatſoever, even all, from the greateſt ſin<g ref="char:EOLhyphen"/>ners to the leaſt, Do not I, <hi>the Light in all your Conſciences,</hi> reprove and condemn you for all theſe things, as well the leaſt as the greateſt? Did I ever give you leave to live in any of theſe things? but contrariwiſe, have I often wooed and entreated you to come out of them, telling and ſhewing you plainly, if you lived in any of theſe things, you ſhould never inherit the Kingdom of God.</p>
+            <p>And alſo, O you Profeſſors, who have had <hi>a form of Godli<g ref="char:EOLhyphen"/>neſs, but not the holy power thereof,</hi> who in an outward ſhow have made many Prayers, with other outſide ſhews of Holi<g ref="char:EOLhyphen"/>neſs, while your hearts were full of Iniquity and the in-ſide all Deceit? have not I <hi>[the Light]</hi> often ſmitten you for theſe things,
+<note place="margin">
+                  <hi>Mat.</hi> 7.20, 21, 22, 23.</note> ſhewing you that the Lord looked not at the <hi>out<g ref="char:EOLhyphen"/>ward appearance,</hi> but only requireth the <hi>heart?</hi> and though you may ſay, you have <hi>propheſied in my Name,</hi> yea, and <hi>caſt out Devils,</hi> with many <hi>wonderful works,</hi> yet will I profeſs <hi>I never knew you,</hi> unleſs you receive me, that I may cleanſe you from all iniquity: Wherefore cleanſe your hands ye Publicans, and purifie your hearts ye Phariſees; for ſo long as you are in ſin, neither of you are juſtified by me. Deny me in any of theſe things before-mentioned if you can, for which if I condemn you, think you to find mercy with my Father? Nay,
+<note place="margin">
+                  <hi>Joh.</hi> 5.22.</note> nay, <hi>my Father and I are both one,</hi> and he hath committed all Judgment unto me, and that you will find one day, to your utter condemnation for ever, except you turn at my reproof, that I may pour out my ſelf upon you, to cleanſe you from all pollutions of fleſh and ſpirit, and ſo bring you into a godly life, in perfectneſs and true holineſs, before you go hence and be no more ſeen; for <hi>as Death leaves you, ſo will Judgment find
+<pb n="24" facs="tcp:100088:13"/>you;
+<note place="margin">
+                     <hi>Iſa.</hi> 38.18.</note> for in the grave there is no cleanſing:</hi> So whilſt you have time, take this for a warning, for you will find no mercy with God after death, if you reject me, <hi>the Light,</hi> whom my Father hath in his mercy ſent into the dark world, that all that receive me ſhould be led out of ſin and darkneſs, into the Light of Everlaſting Life. If any ask for a proof of theſe words, let them turn <hi>within,</hi> and ſearch the Book of <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> and look truly therein, and there they ſhall find it.</p>
+            <p>
+               <hi>We hope we ſhall finde mercy hereafter, <label type="milestone">
+                     <seg type="milestoneunit">World. </seg>
+                  </label> for God is a merciful God.</hi>
+            </p>
+            <p>The mercy of God is not as many think it is, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> nor to be found where many hope for it, which is to ſay, in the life to come, after death of the outward man; but it is to be found in this life, whilſt thou haſt a being in this earthly tabernacle; or elſe all thy hope in thy dead mind will be in vain; for, ex<g ref="char:EOLhyphen"/>cept thou know a cleanſing by the Light, which is the mercy of God, from ſin, when you ſhall come to receive a juſt re<g ref="char:EOLhyphen"/>compence of reward for all your deeds done in the body,
+<note place="margin">
+                  <hi>Rev.</hi> 20 13.</note> then ſhall your dead minds be awakened, and the mercy which you have dreamed of therein, be turned into fear, wrath and anger, wherein the Lord will reveal himſelf, to take Ven<g ref="char:EOLhyphen"/>geance upon all that knew him not, to live in them, and they to live in him, whoſe Life raiſeth out of Death and all dead works,
+<note place="margin">
+                  <hi>Revel.</hi> 20.6.</note> into the Life of Righteouſneſs, which is free from ſin, which is the firſt Reſurrection, of which whoſoever partakes not, the ſecond Death will have power over.</p>
+            <p>Therefore more plainly to all underſtandings, this I ſay, is the mercy of the compaſſion at God to all mankind, who have loſt their ſpiritual life, through falling into ſin, by which came death over all, inſomuch that man became more ſenſleſs than the Ox,
+<note place="margin">
+                  <hi>Iſa.</hi> 1.3</note> which knew his owner, or the Aſs, which knew his Maſter's crib; I ſay, his mercy is to offer him Life <hi>freely,</hi> in the Light of his Son, which he had fully loſt, and of himſelf could in no wayes gain it again,
+<note place="margin">
+                  <hi>John</hi> 1.3.</note> therefore <hi>God ſo loved the world, that he ſent his Son a Light into it,</hi> in whom was and is Life, <hi>whoſe Life is the Light of men, ſhining in dark hearts,</hi> to which they in taking heed, and obeying it in its movings, leadings and workings, will thereby be led out of ſin, which
+<pb n="25" facs="tcp:100088:13"/>it bears Teſtimony againſt, to take up a Croſs to the carnal mind and luſts of the fleſh, which in them is all enmity againſt God, on which Croſs the evil ſeed will be crucified, and the enmity ſlain, and ſo comes of <hi>twain, one new man</hi> to be made, in whom the Image and Life of God is reſtored again by the <hi>ſecond Adam,</hi> in whom all are made alive,
+<note place="margin">1 <hi>Cor.</hi> 15.22.</note> who receives him who is the <hi>quickening Spirit,</hi> from that death which entred them by the <hi>firſt Adam,</hi> who was an earthly man; and ſo all that receive Chriſt the Light, receive the Mercy of God, and come to know the Seed of the Kingdom, which is like a little leaven, which as it comes to have its way to work and operate in the heart, it makes all things new, by working out the <hi>evil ſeed,</hi> and killing the <hi>old man with his deeds,</hi> and ſo makes <hi>a new lump;</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 3.3, 5.</note> this is the work of <hi>Reſtoration</hi> in the waſhing of <hi>Regene<g ref="char:EOLhyphen"/>ration,</hi> through which the <hi>new birth</hi> is brought forth, of which, except a man be born, he muſt not inherit the Kingdom of God: So this is the Mercy of God,
+<note place="margin">
+                  <hi>Joh.</hi> 15.24.</note> to give every one a mea<g ref="char:EOLhyphen"/>ſure of the Light of his Son, to work this Work in and for them, which they of themſelves could not work, which muſt be wrought in this life or never.</p>
+            <p>But yet I feel there are ſome in the world who are ready to ſay thus: <hi>Oh this perfect life that we could attain it! <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> Oh how willing could we be to be rid of all ſin, if it be poſſible! for we feel ſomething in us, crying as it were for deliverance, which is grieved and burthened with the heavy load of ſin; and indeed, notwith<g ref="char:EOLhyphen"/>ſtanding all our Obſervations, wherein we have been ſeeking life and peace, yet are we unſatisfied, and which way to be we know not.</hi>
+            </p>
+            <p>Well, my Friends, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> in the remembrance of you is my ſoul refreſhed; and what if I ſay I have been ſtriving all this while that I might make a way to come plainly to your un<g ref="char:EOLhyphen"/>derſtandings, to ſpeak a little in the Bowels of Love, that theſe good deſires in you may be ſtrengthened, and the eye of your underſtandings opened, to ſee the good day that is bro<g ref="char:EOLhyphen"/>ken forth unto many, who ſate in darkneſs and under the ſhadow of death, hoping for life, and breathing for power, to come up out of the pit where there is no water, where their tongues clave to the roof of their mouthes, in which their
+<pb n="26" facs="tcp:100088:14"/>hearts were ready to faint, and were almoſt giving up to con<g ref="char:EOLhyphen"/>clude that there we muſt remain, notwithſtanding ſomething breathed to come forth, but being in bondage in the Priſon<g ref="char:EOLhyphen"/>houſe, the keeper thereof ſaid its impoſſible; and while we hearkened unto him, we ſaw no hope of attaining our deſires, but turning away from him, and ſtanding a little ſtill, we heard a Voice that ſpake unto us comfortably,
+<note place="margin">
+                  <hi>Joh.</hi> 13.</note> and with it was a Light that ſhone out of darkneſs, by the which we ſaw mar<g ref="char:EOLhyphen"/>vellous things, wherein our ſouls were greatly revived; and as we hearkned diligently, and gave up to the call of the ſame, it brought us by a way that we thought not of, out of the depth of the dungeon of death, where we were held in bondage and ſlavery, by the King of the bottomleſs pit, who ſeemed ſo ſtrong, as if he could never be overcome; but he that ſpake unto us in the Light,
+<note place="margin">
+                  <hi>Matth.</hi> 12.29.</note> hath proved too ſtrong for him, for he hath broken the bars of braſs, by the might of his power, and unlocked the doors of ſteel, and by the Sword of his Spirit hath he cut our bands aſſunder, even the chains wherewith we were held.</p>
+            <p>And therefore I, as one that have been in the deep, even in bondage under the prince of that world which lies in wicked<g ref="char:EOLhyphen"/>neſs, do hold forth and teſtifie unto you, that a <hi>ſtronger</hi> than he is come,
+<note place="margin">
+                  <hi>Matth.</hi> 12.29.</note> who is able to bind the ſtrong-man, and ſpoil all his goods; and behold he is nigh unto you, who breathes from deliverance from ſin, for it is he that hath begotten that de<g ref="char:EOLhyphen"/>ſire in you, and not only ſo, but his purpoſe is to ſatisfie it, if you would joyn with him with whom all things are poſſible, in that which ſhews you your conditions in that ſtate where you are, and makes it loathſome unto you, that you might conſent unto him, and be willing to come forth; who is calling in the freeneſs of his Love this day, to all that are weary and heavy laden with ſin,
+<note place="margin">
+                  <hi>Matth.</hi> 11.28, 29, 30.</note> and have no delight in it, that they might come to him, who is meek and lowly, in their hearts, and take his yoke upon them, which I teſtifie is eaſie to all the honeſt-hearted, and his burden is very light; wherefore, O ye ſincere breathers after God, who hunger truly after him and his Righteouſneſs, lift up your heads, for the Bleſſing of God is unto you; therefore doubt you not, but turn to the
+<pb n="27" facs="tcp:100088:14"/>Light that tells you all that ever you did, and look ye only at him, and not at your own weakneſs, then will you find him to be a Saviour, who will open your eyes, and enlighten your hearts, and will bring you to the Fountain of Life, where you ſhall draw Water out of the <hi>Well of Salvation,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 4.14.</note> whereof you ſhall drink and be ſatisfied, which ſhall ſpring in you up to everlaſting Life: Oh therefore come away, for the Day of all dayes is dawned, and the black clouds of the dark night which were over the Sun of the morning are fleeing away, and the ſtone is rouled from the mouth of the Sepulcher, and the Lamb is ariſen from thence; therefore ariſe, come away my Be<g ref="char:EOLhyphen"/>loved, why ſeek ye the living amongſt the dead? For lo, the fulneſs of him is not at all to be found in the obſervation of any outward things; as Bread and Wine, or the like,
+<note place="margin">
+                  <hi>Col.</hi> 2.20, 21, 22, 23.</note> which periſh with the uſing: therefore is <hi>leanneſs of ſoul</hi> upon all who ſtick in outward ſhadows, and a complaint heard in all their habitations, mourning in all their ſtreets; Wherefore ariſe, ariſe, this is not your Reſt, for it is polluted, and the Lord is departed from thence, and is turning away the back<g ref="char:EOLhyphen"/>ſide of his Glory, that you may behold him in the perfection of beauty, even face to face: therefore his bowels yearn to<g ref="char:EOLhyphen"/>wards you, that he might come in and ſup with you; that he may make his abode with and in you; knowing right well that your ſouls ſatisfaction depends onely of the enjoyment of his pure living preſence, which only quickens and raiſes them out of death to life, which no external thing can do;
+<note place="margin">
+                  <hi>Rev.</hi> 3.20. <hi>Jer.</hi> 23.29. <hi>Rom.</hi> 10.8.</note> therefore is he come home to the door of your hearts; Oh then come down and feel to the knocks of the hammer of his Word, which is nigh you, <hi>even in your hearts and mouthes,</hi> that your rocky and ſtony hearts may be ſoftned and broken there<g ref="char:EOLhyphen"/>by; then ſhall you feel the Water of Life which will ſpring from the Light therein; the which when you have felt and taſted of, you will never go more to the muddy waters which are fouled by the feet of the beaſts of the field, which ſatiſ<g ref="char:EOLhyphen"/>fieth not the appetite of that which hungers after God; for the ſake whereof my ſoul breathes after you, and to the Lord alſo in your behalf, and in the yearning bowels of endleſs and unutterable Love am I drawn forth thus to write unto you
+<pb n="28" facs="tcp:100088:15"/>in this day, wherein the Lord hath ſhewed me, how he is ſeeking you to himſelf, who by the right-hand of his out<g ref="char:EOLhyphen"/>ſtretched Arm will bring you into the Fold of true Reſt, if you reſiſt him not in the way of his own workings, wherein he is drawing near unto you, even to reveal himſelf in your hearts, that he might guide you with the Light of his Eye, and be unto you an Everlaſting Teacher: Therefore, this muſt I ſignifie unto you, that it is in his Love to you for good, to ſuffer your Teachers to be removed into corners this day, and to premit ſuch in their places wherein your ſouls have no delight, that ſo he may draw you home to his own houſe, wherein there is bread enough; that ſo you may come to wait to receive at his hand, and not at the hands and lips of men, who have fed you with that which died of it ſelf, and quickened not unto God, neither will ſtand you in any ſtead in this day, which is come as a tryal to ſhew you the empti<g ref="char:EOLhyphen"/>neſs of all outward things, whereof you have been feeding, in them thinking to have life, and have denied the <hi>Light within,</hi> in which the Life is (only) and have been idolizing men, who ſpoke unto you in the wiſdom of words, and not in the power of God, by ſetting them up in your hearts, and run<g ref="char:EOLhyphen"/>ning in your minds upon them more than you ſhould have done; and while you enjoyed their preſence, you made ſlight of the little appearance of Chriſt's Light in your Conſcien<g ref="char:EOLhyphen"/>ces, the which many of them taught you to do, telling you it was a natural thing, which grieved the Lord; therefore did he often warn the Teachers and Profeſſors by his Servants and Prophets, both by words and ſigns, what a day he would bring upon them for theſe things, except they repented and turned from the evil of their wayes to his Light; but they would not hear nor regard: therefore in righteous Judgments is it now come and coming to be fulfilled; but yet in mercy, that ſo he might bring you down to himſelf, whoſe Love is yet to many of you freely held forth in the Light of his Son; whom I exhort you all to bow unto,
+<note place="margin">
+                  <hi>Pſal.</hi> 2.12.</note> and kiſs him, leſt he be angry, and in his Wrath withdraw from you, ſhutting the door of mercy; becauſe when he called, you would not anſwer: but O my ſpirit yet breathes towards you, ſaying, Oh that you
+<pb n="29" facs="tcp:100088:15"/>would ceaſe hunting without, like <hi>Eſau,</hi> for ſo you miſs of the bleſſing; but turn in home to the Light of Chriſt, and, like <hi>Jacob,</hi> keep at home, and there you will meet with the Bleſſing, which will ſatisfie your ſouls;
+<note place="margin">
+                  <hi>Col.</hi> 2.16, 17.</note> where you will feel the ingrafted Word of Life to be the full ſum and ſubſtance of all outward ſhadows, and far exceeding all Types or Re<g ref="char:EOLhyphen"/>preſentations that can ever be made of it; the which when you come indeed to know and find, your hearts will be over<g ref="char:EOLhyphen"/>joyed, inſomuch that you will be ready to call to your neigh<g ref="char:EOLhyphen"/>bours and friends to rejoyce with you; even like the woman who had loſt her groat in her own houſe,
+<note place="margin">
+                  <hi>Luk.</hi> 15 8, 9.</note> and went abroad to ſeek it, but at laſt turned home, and in ſweeping and making clean her own houſe, found it there: This is your ſtate; therefore be ſtill, and ſee the Salvation of God, which is <hi>nigh</hi> unto you, and believe not thoſe who draw you without, ſay<g ref="char:EOLhyphen"/>ing, <hi>Lo here,</hi> or <hi>there;</hi> for the Kingdom of God is <hi>within you,</hi> which your ſouls breath after:
+<note place="margin">
+                  <hi>Luk.</hi> 17 21, 23.</note> Therefore hew no more bro<g ref="char:EOLhyphen"/>ken ciſterns that can hold no water to ſatisfie your thirſty ſouls, but to the Fountain of <hi>living Waters</hi> all come and drink freely, then ſhall you never thirſt again; then ſhall you know what it is to drink new Wine with Chriſt in the Kingdom of Heaven, and to ſup with him; then will you never go more to ſeek him in the dead letter, and other dead creatures, but will come to know him and his Life made manifeſt in you: this is the ſum and ſubſtance of all, even to know the Bread of Life in your <hi>own</hi> houſes, and your <hi>own Fig-tree,</hi> that you may ſit under it, where none can make you afraid; then will you know the Myſtery of Godlineſs, which is very great, even <hi>God manifeſt in the fleſh.</hi>
+            </p>
+            <p>But now I feel ſome weak underſtandings will be ready to ſay, <hi>You ſeem here to deny the Ordinances of the Lord's Supper, <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> which we believe are to ſtand for ever; and other outward means; and ſpeak as if we muſt come to live above Ordinances.</hi>
+            </p>
+            <p>To which I have theſe words to ſignifie:</p>
+            <p>Although Chriſt took the Cup, ſaying, <hi>This is my Blood;</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> and likewiſe the Bread, ſaying, <hi>This is my Body; this do in remembrance of me, &amp;c.</hi>
+            </p>
+            <p>I ſay, this being all the Command you have for it, is not
+<pb n="30" facs="tcp:100088:16"/>ſufficient to prove it to remain an Ordinance for ever: for he did not ſay,
+<note place="margin">1 <hi>Cor.</hi> 11.26.</note> you ſhall alwayes do this, (but, <hi>Do this</hi>) which ſignifieth only at that time; to keep them in remembrance of him till he came to them again: And if after he was come, they did uſe it, becauſe of the weakneſs of ſome, yet that is not ſufficient for you to rely upon, and ſo to reſt only in the <hi>ſhadows,</hi> denying the <hi>ſubſtance,</hi> as ye do, (which is to ſay) the Power of God which ſets free from ſin in this life, which in<g ref="char:EOLhyphen"/>deed is the ſum of all,
+<note place="margin">
+                  <hi>John</hi> 6.33, 35, 48, 50, 51, 53, 54, 55, 56.</note> even the Life and Blood of the Lamb of God, except which a man partakes of, he hath no life in him; to which I teſtifie a man may attain to, and not uſe thoſe things; and then, what need is there of them, the <hi>ſub<g ref="char:EOLhyphen"/>ſtance</hi> being enjoyed?</p>
+            <p>And now to ſpeak more plainer to the matter, this I ſay; Even as <hi>Paul</hi> by the Spirit of God, cryed down that which God himſelf commanded,
+<note place="margin">
+                  <hi>Gal.</hi> 6.15.</note> (which is to ſay) <hi>Circumciſion,</hi> ſay<g ref="char:EOLhyphen"/>ing, it <hi>availed nothing, but only the new creature,</hi> which was not wrought in any meaſure by that outward act, but by the <hi>Circumciſion of the heart, in and by the Spirit,</hi> which was the ſubſtance of that outward type; for the attaining of which he did not preach the outward,
+<note place="margin">
+                  <hi>Gal.</hi> 5.6</note> to be uſed for the means to bring to the <hi>inward,</hi> but ſaw plainly that the uſe of the <hi>outward,</hi> drawed their minds therein to reſt,
+<note place="margin">
+                  <hi>Rom.</hi> 2.29. <hi>Gal.</hi> 5.2</note> ſhort of the thing it ſelf: therefore he ſaid, <hi>If they were circumciſed, Chriſt</hi> (the true Circumciſion) <hi>ſhould profit them nothing.</hi> And had he any proof for this, but onely the Spirit in himſelf: and therefore by the Spirit, in the Fear and Authority of God, this I ſay unto you all (Bread and Wine,
+<note place="margin">
+                  <hi>Joh.</hi> 6.53, 54, 55.</note> or no Bread and Wine) availeth nothing, but onely the <hi>Body and Blood of the Lamb,</hi> which is <hi>ſpiritual</hi> (or all ſpirit) is the main thing, even the very ſub<g ref="char:EOLhyphen"/>ſtance it ſelf, which only is felt and enjoyed by ſtaying the mind inwardly in the Light and Spirit of God, and not by eating and drinking in the remembrance thereof, and never coming to witneſs the thing remembred, which (if you ſay, <hi>Yea, we do by Faith</hi>) I tell ye, Nay; not by the true Faith, while you witneſs not freedom from all ſin in this life,
+<note place="margin">1 <hi>Joh.</hi> 3.3. &amp; 5.18.</note> nei<g ref="char:EOLhyphen"/>ther believe you ſhall do; for they who had the living Faith, it purifies them, even as Chriſt was pure, who came not to
+<pb n="31" facs="tcp:100088:16"/>this pure cleanſing by ſuch outward things and means as you plead for; but they ſaid it was by walking in the Light,
+<note place="margin">1 <hi>John</hi> 1.7.</note> as God was in the Light, that they had their fellowſhip with him, and the Blood of his Son, to cleanſe them from all ſin;
+<note place="margin">
+                  <hi>Jam.</hi> 2.20.</note> ſo there your Faith, without theſe fruits, is but a dead faith: And now let me appeal to the Witneſs of God in thoſe, who have done it in the moſt ſincereſt abundance to God; and in ſo doing it, have felt ſomething, as ye have thought, of the Love of God; Yet, I ſay, it hath been becauſe your minds were at ſuch times in conſideration of the weight of the mat<g ref="char:EOLhyphen"/>ter, circumſpectly ſtayed upon God in the Spirit, and not be<g ref="char:EOLhyphen"/>cauſe you ate the Bread and Wine: So then ceaſe making an Idol of it, as thinking you cannot enjoy God without it; or that the dead creature conveyes any thing of him into you; and come down into the Spirit, and in it dwell continually, which is that, that only can and doth do it; and ſo when you come truly in this condition, and in it do abide,
+<note place="margin">
+                  <hi>Joh.</hi> 14.23.</note> (which is to ſay) not only to ſup with Chriſt ſometimes, but <hi>alwayes in the Spirit to make your abode with him, and he with you,</hi> you will then ſay with me that all theſe outward things are nothing, but the Spirit is all in this matter; which whoſoever denies,
+<note place="margin">
+                  <hi>Col.</hi> 2.21, 22.</note> reſiſteth the everlaſting Ordinance of God: wherefore, <hi>touch not, taſte not, handle not, any thing that periſheth with the uſing, after the doctrine and commandments of men;</hi> nor <hi>make to your ſelves the likeneſs of any earthly thing</hi> of the inviſible Body and Blood of the heavenly Son of God; for if ye do, may I not ſay, Oh! miſerable is your condition! and little are your hearts affected with him, who cannot keep in the living re<g ref="char:EOLhyphen"/>membrance of him, without eating and drinking in remem<g ref="char:EOLhyphen"/>brance of his Death. Wherefore, O come down to that which croſſeth the carnal mind, to take up the Croſs, that it may be crucified thereon; then ſhall you know a dying with him, and be made partakers of his Reſurrection, wherein the ſting of Death, and the victory of the Grave will be remembred no more.</p>
+            <p>And yet, further; May I not ſay unto you, that the <hi>Papiſts,</hi> whom you condemn as Idolaters, may plead for their uſing of Images in like manner, as you do for your Bread and Wine;
+<pb n="32" facs="tcp:100088:17"/>for they ſay they worſhip them not as gods, but look upon them in their worſhipping of God, that ſo thereby their minds may be fervently fixed upon him, having conceived in their hearts that they cannot be ſo fervent with him without them, as with them.</p>
+            <p>But, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> you ſay, <hi>they are deceived; for they may draw nearer to God without them.</hi>
+            </p>
+            <p>Even ſo ſay I: <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> But mind a little how you in condemning them herein, condemn your ſelves alſo; who have conceived in your ſelves that you cannot ſo well keep in the remem<g ref="char:EOLhyphen"/>brance of Chriſt, and have ſuch communion with the invi<g ref="char:EOLhyphen"/>ſible God, without the exerciſe of ſome viſible outward things in the likeneſs of him (as with them;) Wherefore I ſay unto you, Come up higher out of theſe things, and you ſhall ſee <hi>greater than theſe,</hi> (as ſaith the Spirit.) Oh then, reſt not in the <hi>leſſer,</hi> leſt by ſo doing you miſs of the <hi>greater;</hi> for the Glory of all Glories is appearing, and that which you think to be the greateſt light unto you, ſhall become but meer darkneſs, in compariſon of the <hi>marvelous Light</hi> that ſhall yet appear in the day that is already dawned: Oh therefore, prepare, pre<g ref="char:EOLhyphen"/>pare to meet the Bridegroom, for the Marriage of the Lamb draws nigh; yet none but thoſe who have on the pure Wed<g ref="char:EOLhyphen"/>ding-Garment ſhall enter with him into the Bride-Chamber, neither taſte of the Supper of the Lamb.</p>
+            <div type="part">
+               <head>Having had ſome experience of the Loving-kindneſs of God, and of his dealings with me, from my Childhood to this day; it is moved in my ſoul to give forth a Teſtimony of the ſame, for the good of all who in the dayes of their youth ſeek and deſire after him.</head>
+               <p>IN the dayes of my Childhood, I was brought up with my Parents after the manner as other Children were; but not in much ſtrictneſs or reſtraint from evil vanities that Children are prone to (by them) they being after the manner of other worldly people, given to the faſhions and vanities thereof,
+<pb n="33" facs="tcp:100088:17"/>and ſuch like things themſelves, but had my liberty in many things even as I would; but yet notwithſtanding, God in his endleſs love to my ſoul ſhewed me the evil of my wayes, words and actions, and begot a deſire in me after himſelf, and opened my underſtanding, and ſhewed me much of the vanity and ignorance of the Teachers and Profeſſors of the world, inſomuch that I was fully ſatisfied, that the Teachers of the world were not the Miniſters of Chriſt, and that they did people little good, which cauſed me that I never followed them, ſo as to expect benefit from them; and I marvelled that thoſe who could reade the Scriptures, and ſeemed to be wiſe, would ever follow them: Such things as theſe were ſtirring and working in me, from eight or nine years of age until eleven or twelve; about which time the People called <hi>Baptiſts,</hi> appeared in this my native place and Country, which is <hi>Tipton</hi> in <hi>Staffordſhire;</hi> whoſe Doctrine and outward Form, which I only look'd at, I found to be more in imitation ac<g ref="char:EOLhyphen"/>cording to the Scriptures, than the other Teachers, and there<g ref="char:EOLhyphen"/>fore did I go amongſt them, and owned them more than any; and after ſome years time my underſtanding was very much opened, ſo that I became wiſer than all my acquainted Play<g ref="char:EOLhyphen"/>fellows in Religious matters, and could not freely act ſuch things as others did, though I was many times overcome with them; but the Lord followed me with his Witneſs, ſo that I had no peace in any evil words or actions; inſomuch that many times in the very acting of vain fooliſh things, ſome<g ref="char:EOLhyphen"/>thing would ſmite me into heavineſs and grief; though I was never given to that which the world calls groſs ſin, but only childiſh vanities, as playing with lads, fooliſh jeſting and idle talk, ſinging of ſongs, and ſuch like things, as other untoward lads are given to, which ſcarce any one would re<g ref="char:EOLhyphen"/>prove me for; for the beſt ſort of people about me were guil<g ref="char:EOLhyphen"/>ty of many ſuch things, who ſeemed to be wiſe men; yet notwithſtanding, I could have no peace in them, though ſomething would tell me I was young, and need not matter ſuch things ſo early, but might let them alone til I was a man, and then I ſhould have more knowledge in godly matters,
+<pb n="34" facs="tcp:100088:18"/>and it would be well enough to grow civil and circumſpect then: yet for all this, I could not get over the Witneſs of God, but it ſhewed me, that this was the Serpent's voice, that would draw me from remembring my Creator in the dayes of my youth: And ſo in the exerciſe of theſe things my ſoul was often revived with true deſires after God, who I little thought was ſo nigh me as he was: and many times I made Vows in ſpirit, that if he would paſs by my ſins paſt, I would never do as I had before: But alas, in my own po<g ref="char:EOLhyphen"/>wer I could not perform them, and I was ignorant of the Power and Spirit of God; and though we in theſe dayes had nothing but he Scriptures to help our minds in ſuch things; for the Teachers concluded, that all Revelations and imedi<g ref="char:EOLhyphen"/>ate Teachings by the Spirit of God, as in the dayes of old, [were ceaſed;] the which made me many times ſorrowfull, ſaying, Oh that I had been alive in thoſe dayes, when the Lord taught his People by his Spirit! And when my ſpirit was exerciſed in ſuch things, I was many times drawn to go into ſome ſecret place to be alone, and there could I freely make my moan to God, according to the meaning of my mind, with ſtrong deſires and tears, ſometimes praying in words as God gave me utterance, which I knew he would not deſpiſe, but was more accepted with him than all the fine words, or forms of mens inventions; and this I can truely ſay, I never in all my dayes prayed in hypocriſie, to be ſeen of men, neither ever did learn any form of prayer to reſt in it, for I knew that was deceit; but from the ſmcerity of my heart I ever did it; and in theſe things I many times felt, even a ſweet communion with God; and many times in my waiting upon God, and pondring of things concerning him, ſome things would open in me, ſignifying that a glorious day was nigh at hand, which I ſhould live to ſee, and that I ſhould bear a Teſtimony for God therein; but when I went to reaſon in my ſelf how it ſhould be fulfilled, I being un<g ref="char:EOLhyphen"/>learned, neither ſhould be brought up to learning outward<g ref="char:EOLhyphen"/>ly but little, my Parents being but mean in the outward; then I darkned my ſelf by theſe reaſonings, and could not ſee how
+<pb n="35" facs="tcp:100088:18"/>it ſhould be; but when I remembred, that all things were poſſible with God, then was I made to ſee that thoſe reaſon<g ref="char:EOLhyphen"/>ings came from fleſh and blood, and were to be denied; but many times the enemy of my ſoul overcame me, and brought me to much vanity, which I knew to be evil; yet though I knew it, and had a deſire againſt it, yet was I carried away into it: then when I retired in my mind to God, ſomething would tell me that I had ſinned againſt my own knowledge, and God would not accept me, and ſo would have caſt me into diſpair, as if I ſhould never be forgiven: Then this thing would be brought into my remembrance by the Spirit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God, <hi>That his Bleſſing was to thoſe that hungred and thirſted after Righteouſneſs, and they ſhould be ſatisfied;</hi> which greatly revived my ſoul; for I could truly ſay, notwithſtanding all my ſins, that I was one of thoſe <hi>hungerers;</hi> and for all the doubting deſperations that the Devil could caſt into me, yet I felt ſomething in me, that (as it were) could rely upon God, as being of his nature, and ſtill cryed after him; in which I felt ſome acceptance with God, and of his mercy to my ſoul, and I ſaw it was the evil one which led me into ſin, that would have me to believe I ſhould not be accepted with God, becauſe of my tranſgreſſions which I had not gotten po<g ref="char:EOLhyphen"/>wer over; for <hi>to will</hi> it was then preſent with me, but how <hi>to perform</hi> I had not found: for though the Law of the Spirit of Life in Chriſt the Light, was nigh unto me, which now I know makes me free from the Law of ſin and death; yet I knew it not then, but now I know that the Lord was then at work in me, begetting deſires in my heart after him, that ſo I might be made willing to receive the manifeſtation of his Son in me with joy; which when he had prepared my ſoul, he then revealed in me, by which my heart was made glad, and even overcome with the love of God, and his great Mer<g ref="char:EOLhyphen"/>cies towards me. But yet, to go back a little, while I was ig<g ref="char:EOLhyphen"/>norant of the glorious Manifeſtation of God, and went to the <hi>Baptiſts Meetings,</hi> until there was ſome of the People called <hi>Quakers</hi> came into this Country, who preached up the <hi>Light within,</hi> and the like, by whom ſome of the <hi>Baptiſts</hi> were con<g ref="char:EOLhyphen"/>vinced;
+<pb n="36" facs="tcp:100088:19"/>and then the reſt of them who were Speakers, made it their great buſineſs to preach down, and againſt the <hi>Light within;</hi> and ſo I was thereby hindred with evil Reports of them, (which then were many) very much caſt againſt that People, though I had never heard them at all; but as con<g ref="char:EOLhyphen"/>cerning thoſe who preached ſo much againſt that <hi>inward Light</hi> (wo and alas for them!) for they are greatly fallen into the Darkneſs, and are become even as ſottiſh as other people, and have loſt their Zeal which they had for that, which they then thought to be Truth, for whoſe ſakes I have many times been grieved; for I can teſtifie that there was a good deſire once in them, which drawed them in ſome meaſure, as I may ſay, towards <hi>Canaan;</hi> but alas, the way proved ſtrait, and the mind being alive which luſted after the fleſh-pots, they are again turned into the darkneſs of <hi>Egypt:</hi> And notwithſtand<g ref="char:EOLhyphen"/>ing all that theſe men could ſay for their own way, or againſt others; yer I ſaw plainly, neither they nor I were as we ſhould be, but I was ſtill unſatisfied, becauſe <hi>I had a Law in my members that warred againſt the Law of my mind, which led me captive into ſin,</hi> which I could not overcome, neither could I believe I ever ſhould, though I had a deſire againſt it.</p>
+               <p>And ſo after all theſe things, it was ordered that I muſt go down to <hi>Briſtol</hi> upon ſome outward occaſion; about which time I was ſeventeen or eighteen years old, and it happened that I was to ſtay there ſome time, in which I did abide at a place where there was a Woman, who owned the People called <hi>Quakers,</hi> and ſhe ſhewed me ſome of their Books; and though I could reade but badly, yet I perceived that they were not ſuch a People as I thought they had; and ſo my mind was turned out of enmity againſt them into love, in<g ref="char:EOLhyphen"/>ſomuch that I had a deſire to hear them; ſo I went to their Meetings ſeveral times, but could hear no words; but in be<g ref="char:EOLhyphen"/>holding of them, I was convinced that they were a People to whom God had manifeſted more than any People that ever I had ſeen, but how, I knew not; but at laſt, on a <hi>Firſt-day,</hi> I was much moved in my ſpirit, above other times, to go to their Meeting; and, unknown to me, before I came, there
+<pb n="37" facs="tcp:100088:19"/>was a man, whoſe name in the fleſh is <hi>John Story,</hi> in whom God had raiſed his Witneſs, and opened his Underſtanding to bear a Teſtimony for him, who when I heard ſpeak, the Spirit of Life opened my underſtanding to receive his words, which were made ſerviceable to me at that time, for the in<g ref="char:EOLhyphen"/>forming of my mind in the true Way of God, which I had been long ſeeking after, the which I gladly received, and willingly turned from the Darkneſs, joyning to the Light; which I found to be as a man <hi>that told me all that ever I had done;</hi> and not onely ſo, but <hi>condemned all ſin in me,</hi> ſhewing <hi>what was good,</hi> and <hi>what was evil,</hi> condemning me for <hi>joyning with the evil.</hi> And ſo the miniſtration of Condemnation I came to witneſs, which was very glorious in its time, where<g ref="char:EOLhyphen"/>in the juſt Judgements of the Lord took hold of that which drew me into ſin, in which Judgments the true Seed greatly rejoyced, becauſe its Redemption drew nigh, and the Lord was ariſen to plead with its Enemy by Fire and Sword, which had held it in bondage, which I was daily led to take up a Croſs to; by which the carnal mind, which warreth againſt the ſpiritual, was crucified in me daily, and I daily died to the world and the vanities thereof, and ſo my mind came to be redeemed unto God, who with the finger of his Spirit wrote his Law in my heart, which as I became obedient to, it made me free from the Law of ſin, and gave me victory over it daily; ſo was that in me quickned which delighted only to do the Will of God, and to walk in his Way; which I teſtifie is a pleaſant path and very delightſom, ſurpaſſing all the delights and vanities of the world, which ſatisfies not the ſoul, but burdens the pure Seed of God, which I witneſs is ſet free through Judgements, and that there is no way to Life but through Death, for fallen man; no way to true Joy, but through Trouble; no way to <hi>Canaan,</hi> but through the <hi>Red Sea,</hi> and the <hi>Wilderneſs;</hi> no way to enter the Kingdom, but <hi>through many Tribulations.</hi> So the Lord by the Spirit of burning, hath made that in me, which was as a fruitful field, to become as a Foreſt; and that which was as a Foreſt, to be as a fruitful field: Yea, the Lord hath made the <hi>parched,</hi> to
+<pb n="38" facs="tcp:100088:20"/>be as a <hi>pool,</hi> and the <hi>dry-land, ſprings of water;</hi> and hath vi<g ref="char:EOLhyphen"/>ſited poor <hi>Lazarus</hi> with mercy and love, but the rich Glut<g ref="char:EOLhyphen"/>ton hath he fed with Judgement; and <hi>Eſau</hi> the wild hunter, the firſt birth, hath he brought down, to ſerve <hi>Jacob</hi> the youn<g ref="char:EOLhyphen"/>ger, who hath obtained the Bleſſing; and hard-hearted <hi>Pha<g ref="char:EOLhyphen"/>roah</hi> hath he plagued, but <hi>Iſrael</hi> the Seed hath he bleſſed, whom he hath led by the pillar of fire, which was a light unto him, by which he walked out of the darkneſs of <hi>Egypt,</hi> from under the bondage of <hi>Pharoah,</hi> whom he hath deſtroyed in the bot<g ref="char:EOLhyphen"/>tom of the Sea: Therefore doth the Seed rejoyce and ſing, with high praiſes to its King, who by the power of his ſtrong hand hath broken the ſnare and band, and ſet its feet at li<g ref="char:EOLhyphen"/>berty, that it might walk in the way to <hi>Canaan,</hi> the bleſſed Land, in this God's glorious day, wherein the Sun is riſen in glory bright, which hath expell'd the darkneſs of the clou<g ref="char:EOLhyphen"/>dy night, and hath melted the froſt and ſnow away, which covered the tender plant in the gloomy day.</p>
+               <lg>
+                  <l>
+                     <hi>Wherefore now being come unto the day of God,</hi>
+                  </l>
+                  <l>
+                     <hi>And having felt his Love by kiſſing of his Rod,</hi>
+                  </l>
+                  <l>
+                     <hi>I will make mention of his Name, and tell of his Salvation;</hi>
+                  </l>
+                  <l>
+                     <hi>For he hath ſhewed me the ſame, which ſaves out of Tranſgreſſion:</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore with joy unto the Lord with th'Spirit I will ſing,</hi>
+                  </l>
+                  <l>
+                     <hi>Who hath broken the ſnare and cord of Death, which was a ſting;</hi>
+                  </l>
+                  <l>
+                     <hi>And hath quickened by his Power a life in me to live,</hi>
+                  </l>
+                  <l>
+                     <hi>Which when it feels his pleaſent ſhowers, doth Praiſes to him give.</hi>
+                  </l>
+                  <l>
+                     <hi>I, when I feel the pure Fountain in me to ope and ſpring,</hi>
+                  </l>
+                  <l>
+                     <hi>Which iſſues from Sions Mountain, the Life of her ſweet King.</hi>
+                  </l>
+                  <l>
+                     <hi>Then is my ſp'rit orecome ev'n with the iſſues of that Life,</hi>
+                  </l>
+                  <l>
+                     <hi>Which cometh from the glorious Sun, who leadeth out of ſtrife,</hi>
+                  </l>
+                  <l>
+                     <hi>Into the perfect pure Love, which never thinketh ill,</hi>
+                  </l>
+                  <l>
+                     <hi>Where nothing at all doth him move to any, but pure good-will.</hi>
+                  </l>
+                  <l>
+                     <hi>O in this Life, that's free from ſtrife, my ſoul hath its delight;</hi>
+                  </l>
+                  <l>
+                     <hi>For O it is my married Wife, to whom my very life,</hi>
+                  </l>
+                  <l>
+                     <hi>(In that ſame holy Marriage, which is both clean and pure,</hi>
+                  </l>
+                  <l>
+                     <hi>Which neither Death nor Hell can break, but ever will endure)</hi>
+                  </l>
+                  <l>
+                     <hi>Is even wedded, yet not by any Imagination,</hi>
+                  </l>
+                  <l>
+                     <hi>But by the Spirit undefil'd, which ſaves out of tranſgreſſion.</hi>
+                  </l>
+                  <pb n="39" facs="tcp:100088:20"/>
+                  <l>
+                     <hi>Yet in much fear unto the Lord I cry,</hi>
+                  </l>
+                  <l>
+                     <hi>O without thy Preſence what am I!</hi>
+                  </l>
+                  <l>
+                     <hi>If thou forſake me, I ſhall ſurely fall;</hi>
+                  </l>
+                  <l>
+                     <hi>For, of my ſelf, I have no ſtrength at all;</hi>
+                  </l>
+                  <l>
+                     <hi>O therefore by thy Power, me deliver</hi>
+                  </l>
+                  <l>
+                     <hi>And ſave, to glorifie thy Name for ever.</hi>
+                  </l>
+                  <l>
+                     <hi>Yet now come hearken unto me, all that deſire to know,</hi>
+                  </l>
+                  <l>
+                     <hi>And my Beloved long to ſee, the way to you Ile ſhow.</hi>
+                  </l>
+                  <l>
+                     <hi>It is by walking in the Light, which doth convince of ſin,</hi>
+                  </l>
+                  <l>
+                     <hi>Which is committed in the night, by all that walk therein:</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore out of the Darkneſs come, and hearken to the Light,</hi>
+                  </l>
+                  <l>
+                     <hi>Even the Glory of the Son, and it will free you quite.</hi>
+                  </l>
+                  <l>
+                     <hi>So my dear Beloved, you will then come to ſee</hi>
+                  </l>
+                  <l>
+                     <hi>By whom my ſoul is moved, who's ſo dear to me:</hi>
+                  </l>
+                  <l>
+                     <hi>O then you'l come to ſee his ſhape, and hear his glorious Voice,</hi>
+                  </l>
+                  <l>
+                     <hi>The which will make the Seed to leap, and your ſouls to rejoyce.</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore come now, follow the Light, and do not from it turn;</hi>
+                  </l>
+                  <l>
+                     <hi>So ſhall you have a pure ſight, and myſt'ries deep ſhall learn:</hi>
+                  </l>
+                  <l>
+                     <hi>Even that great and glorious Work of happy Reſtoration,</hi>
+                  </l>
+                  <l>
+                     <hi>The which is wrought by him that makes the bleſſed new creation:</hi>
+                  </l>
+                  <l>
+                     <hi>Who ſitting on the Throne alone, ſhines like a precious ſtone,</hi>
+                  </l>
+                  <l>
+                     <hi>Who doth enlighten every one, that in the world doth come.</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore let all that fear the Lord, now hearken to his Voice,</hi>
+                  </l>
+                  <l>
+                     <hi>And obey it, that better is than any Sacrifice.</hi>
+                  </l>
+                  <l>
+                     <hi>Wherefore now come and look</hi> within, <hi>and there encline your ear;</hi>
+                  </l>
+                  <l>
+                     <hi>For 'tis the Spirit of the Lord which only ſpeaketh there.</hi>
+                  </l>
+                  <l>
+                     <hi>For though mans heart's deceitful, and imaginations nought;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet God's Spirit it is which ſhews him ev'ry idle thought:</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore within let every one unto the Light return,</hi>
+                  </l>
+                  <l>
+                     <hi>And hearken to its Voice, that's pure, and then you'l come to learn</hi>
+                  </l>
+                  <l>
+                     <hi>What that is call'd that doth redeem, and ſave the ſoul from ſin,</hi>
+                  </l>
+                  <l>
+                     <hi>And then you'l come to know the Law that written is within,</hi>
+                  </l>
+                  <l>
+                     <hi>Even by the finger and direction of the living God</hi>
+                  </l>
+                  <l>
+                     <hi>In all the hearts of them, who underſtand and kiſs his Rod,</hi>
+                  </l>
+                  <l>
+                     <hi>Which ſmiteth and chaſtiſeth them, when ere they go aſtray,</hi>
+                  </l>
+                  <l>
+                     <hi>That it might turn them (that are out) into the</hi> good old Way,</l>
+                  <l>
+                     <hi>Wherein they will find peace that's pure, unto their ſouls, and then</hi>
+                  </l>
+                  <l>
+                     <hi>Shall reſt with God, which will endure for evermore,</hi> Amen.</l>
+               </lg>
+               <pb n="40" facs="tcp:100088:21"/>
+               <p>And ſo the Lord God of eternal Holineſs having lighted a Candle in my heart, and given me a meaſure of his good Spirit, by which he hath preached Righteouſneſs thorow me, if I had never opened my mouth, nor ſet pen to paper; I ſay, I am not now to put it under a buſhel and hide it, but to ſet it up, that it may give light unto all; neither muſt I hide my Talent in the earth, leſt it be taken from me, and given to another who will improve it better; but my chiefeſt care muſt be to ſtand in all things approved to God in faithfulneſs; and when he draws me, or calls me forth, if I leave the <hi>old man</hi> to mend his Net himſelf, as <hi>Peter</hi> and <hi>John</hi> did, let none that knows me marvel at it, for I muſt go about my Father's bu<g ref="char:EOLhyphen"/>ſineſs, who hath redeemed my mind out of the love of earth<g ref="char:EOLhyphen"/>ly things and worldly delights, that I ſhould ſet my whole delight in him, who hath alſo brought me to ſee of the travel of my ſoul, and to be ſatisfied concerning the knowledge of his Truth; ſo that I look not for another Truth, Way, Leader nor Guide, to lead me up to a higher glory in this Truth which is yet to be attained, for the revealing of which, am I wait<g ref="char:EOLhyphen"/>ing in the Light, not expecting any thing any other way, but only a growing from ſtrength to ſtrength, and a preſſing on from glory to glory, even as God in his Son Chriſt <hi>the Light,</hi> ſhall make known himſelf unto me; but I expect not ano<g ref="char:EOLhyphen"/>ther Saviour than Him <hi>(the Light)</hi> for by Him <hi>the Lepers are cleanſed, the blind made to ſee, and the lame man to leap like an Hart, the dumb to ſpeak; and to the poor is the Goſpel preached by Him, whom he filleth with good things, but the rich and the full he ſends empty away:</hi> all which, whoſoever receives and follows, the Lamb, the Light, the Way, the Truth and the Life, ſhall come to witneſs, and reade with a clear under<g ref="char:EOLhyphen"/>ſtanding what I have written; but from thoſe that rebel againſt the Light, theſe things are ſealed by the hand of the Wiſdom of God.</p>
+            </div>
+            <closer>
+               <signed>I. W.</signed>
+            </closer>
+         </div>
+         <div type="directions">
+            <pb n="41" facs="tcp:100088:21"/>
+            <head>Some wholeſom <hi>DIRECTIONS</hi> to ſtir up young People to ſeek after their Creator in the dayes of their youth.</head>
+            <p>ANd now, O all you Young men and Maids, with all that are of a capacity to underſtand my words, who are young and tender in years, for my bowels yearn towards you; therefore come hearken to my voice, and be attentive to the words of my mouth, and I will inſtruct you in the Fear of the Lord, which is the beginning of true Wiſ<g ref="char:EOLhyphen"/>dom; Now this is the Counſel of God unto you, which he hath put into my heart to write, that you all hearken to that which ſhews you the evil of the world and the vanity of your own wayes; which condemns you for every evil word and action; for that I teſtifie unto you all, is the Spirit of God which he hath given you to profit withall, which, as you receive it, will open your underſtandings, and if you join there<g ref="char:EOLhyphen"/>with, it will give you dominion over ſin, and cleanſe you from iniquity; O therefore come down to it, and put your necks under the yoke, and let that which croſſeth the vain mind be your delight; and ſtill join with that in you which breatheth after God, ſo ſhall you come to an acquaintance with him; for to that doth he make known himſelf, and to them, and none but them who wait therein upon him; wherefore let not your minds run after vain things, but above all mind the Fear of the Lord, and ſeek after your Crea<g ref="char:EOLhyphen"/>tor
+<pb n="42" facs="tcp:100088:22"/>in <hi>your youthful dayes,</hi> before the evil ſeed hath gotten too deep a root in <hi>your hearts;</hi> for then it will be hard to get it out; yea, ever the longer <hi>you</hi> put the day of the Lord off, ſo much the harder will it be for <hi>you</hi> to return, and become conformable to his Will; even as it is hard to make an old crooked tree ſtreight and fit it for the building, which is not done without much hewing; ſo will it be with <hi>you,</hi> if <hi>you</hi> go on till old age in the crooked perverſneſs of ſin; but if <hi>you</hi> take up the Croſs while <hi>you are young,</hi> then ſhall <hi>you</hi> grow up as the <hi>pleaſant plants</hi> of a Garden, in whom the Husbandman is well-pleaſed, who will make it the delight of his ſoul to water <hi>you</hi> with the diſtilling Dews of his Love, which is better than Wine or Oyl, or any earthly thing: O then, after Him ſeek <hi>ye</hi> with <hi>your whole hearts,</hi> then ſhall <hi>you find Him,</hi> and be ſa<g ref="char:EOLhyphen"/>tisfied in the <hi>fulneſs of his Love;</hi> whoſe Life will reſt upon <hi>you</hi> and make <hi>you</hi> like unto <hi>himſelf,</hi> whoſe Image of Love <hi>you</hi> are to bear forth to all men; who cauſeth his Sun to ſhine upon his Enemies aſwel as his Friends: but yet <hi>you</hi> are to bear a faithful Teſtimony againſt all Unrighteouſneſs; hating the <hi>evil of all,</hi> but the <hi>perſons of none;</hi> and in all conditions, watch over <hi>your</hi> own ſpirits with diligence; for the greateſt enemy <hi>you</hi> have to deal with, is in <hi>your</hi> own houſe, which will be drawing <hi>your</hi> minds into ſomething or other in the Creation below, that ſo he might cauſe <hi>you</hi> to forget God <hi>your</hi> Creator; which, if <hi>you</hi> be croſſed in, and cannot have <hi>your</hi> wills ſatisfied, nor accompliſh the deſire of <hi>your</hi> minds, murmur not, for God ſeeth what will be beſt for <hi>your good</hi> and <hi>his glory;</hi> O there<g ref="char:EOLhyphen"/>fore, let not <hi>your</hi> minds run after Gold nor Silver,
+<pb n="43" facs="tcp:100088:22"/>Houſes nor Lands, Wives nor Husbands, neither the Friendſhip of the World, nor the Faſhions thereof, which will all paſs away and come to nothing; but, <hi>above all theſe, ſeek ye firſt the Kingdom of God, and the Righteouſneſs thereof,</hi> and in it be content with what ſhall be of God added unto you; who will not ſuffer thoſe that fear him to want any good thing; who have choſen the <hi>one thing needful</hi> above all other things, even the <hi>good part,</hi> and have refuſed the <hi>evil,</hi> and the <hi>many things,</hi> whereby comes the offence; ſuch have made a good choice, for the Lord is their Inheritance and Portion, and their Lot is fallen in a good ground; Wherefore all, come, turn in, and cleave to the <hi>one good thing,</hi> even that which never conſented to any <hi>evil;</hi> for that is the Seed of the Kingdom, which is likened to a little Leaven which the woman hid in the Meal, and it leavened the whole Lump, even ſo is that Seed, the <hi>Righteous Leaven,</hi> hid in your hearts, to leaven you into its nature, which is of the Nature of God: O then, let all your hearts be united thereunto, and in obedience give up to the vvorkings of it, and then it vvill vvork out all that is contrary to God in you, and make you like unto it ſelf, vvhich is, meek and lowly, harmleſs, pure and undefiled; and there<g ref="char:EOLhyphen"/>fore it condemns you while you are in the lofty, hurt<g ref="char:EOLhyphen"/>ful, filthy nature, which leads you into ſin; Which if it follow you with Torment &amp; Condemnation, giving you no peace in your evil vvayes, then this I teſtifie, as one who have had experience thereof, That it is the Love of God unto you; for then is he ſeeking after you, and ſtriving with you by his Spirit, that he might draw you to Himſelf, who would not that you ſhould
+<pb n="44" facs="tcp:100088:23"/>periſh in your ſin, but turn to him, and receive the re<g ref="char:EOLhyphen"/>proof of his Inſtruction, which is the Way of Life: O therefore, turn ye, turn ye, and kiſs the Rod that ſmites you, and it will be a ſtaff of ſtrength unto you, with which you ſhall walk and not be weary; and with it ſhall you ſmite down your Enemy who would ſtop you in the way; and when you are faint, you ſhall lean thereon and be ſtrengthened; and then that which was your Condemner, will become your Juſtifier; and that which ſpoke <hi>trouble,</hi> will ſpeak <hi>peace</hi> unto you: Wherefore let the time paſt be ſufficient which you have ſpent in vanity, and for time to come ſee that you hearken to that which calls to Repentance, even the <hi>Light of Jeſus,</hi> which is the <hi>more ſure Word of Prophecy, nigh, in your hearts, and in your mouthes;</hi> which is the <hi>Word of Faith which the Apoſtle preached;</hi> which will <hi>purifie your hearts from ſin,</hi> and <hi>cleanſe your ſpirits from iniquity.</hi> So while the Lord calls, ſee that you an<g ref="char:EOLhyphen"/>ſwer, <hi>for his Spirit will not alwayes ſtrive with men.</hi>
+            </p>
+            <p>And now, my Friends, you who are in any meaſure turned to this, or hereafter may turn, and by it come to ſee many vanities of the World, and fooliſh cuſtoms of men, (which you muſt forſake, or you cannot have peace with God) which will be a croſs unto you; this is my Counſel unto you, That you reaſon not with fleſh and blood, which muſt not God's Kingdom in<g ref="char:EOLhyphen"/>herit, but give up freely, and look not at your own weakneſs, neither flee the Croſs; for if you do, then you ſave alive the Enemy of your own peace, which is the carnal mind, which muſt be crucified upon the Croſs which is ſpiritual: So ſtay your minds only in
+<pb n="45" facs="tcp:100088:23"/>the Light, and there you will find the Power of God to crucifie your carnal minds, in which the weakneſs ſtands, and will give you power over all vvithin and vvithout; for this I can truly ſay for your encourage<g ref="char:EOLhyphen"/>ment; Are you weak and fearful? ſo was I; but the Lord hah made me in many things ſtrong and bold for that which is good, glory to his Name for ever, in whom I will make my boaſt, for he it is who worketh all my works in me and for me; ſo that I am nothing, but He is all; who, if He ſhould forſake me, I ſhould ſurely fall: So whatever he may ſhew you, or do for you, or with you; yet ſtill keep you in the ſenſe of your own nothingneſs, leſt the boaſting mind get up in you to rob Him of his Glory. So be not high<g ref="char:EOLhyphen"/>minded, but fear, and make it your greateſt care to be diligent, and hearken to his Voice, that you may be prepared for the glorious Manifeſtation which is to be revealed in you by the Son of God, who is ariſen higher in his Beauty than in the dayes paſt, wherein the cloud of <hi>Ezer,</hi> and thick darkneſs was over many, by which they were vailed; but the day is at hand <hi>wherein the light of the Moon ſhall become as the light of the Sun, and the light of the Sun as the light of ſeven dayes, and the eyes of many ſhall be opened to ſee marvel<g ref="char:EOLhyphen"/>lous things:</hi> Therfore trim your Lamps, that you may be ready againſt the Bridegroom cometh, who vvill come, and vvill not long tarry, but haſteneth, and the time draweth nigh vvherein ye that are vvaiting for his appearance ſhall be promoted higher than Kings or Princes of this World, and ſhall triumph with the Lamb upon the holy Mountain of God, vvhere no venemous beaſt ſhall come.</p>
+            <pb n="46" facs="tcp:100088:24"/>
+            <p>So let none run with the world into the evil there<g ref="char:EOLhyphen"/>of; although they that do ſo, are even ſet up; and <hi>he that departs from iniquity is for them a prey:</hi> but yet it is not as the Wicked thinks it is; for the Lord be<g ref="char:EOLhyphen"/>holds all their doings; he winketh not, as in the night of ignorance, neither will he long forbear, nor ſuffer them to proceed much longer; for his purpoſe is, <hi>to deſtroy the Devil and all his works, with all the workers of iniquity:</hi> And behold, he is now like a man who hath laid his bait and ſet his ſnare, and hideth himſelf in a ſecret place, who will ariſe when they think not of him, and <hi>his hand ſhall not ſpare, neither his eye-lids pitty, but will be avenged of all his Enemies;</hi> and then they that feared him, and thought upon his Name, ſhall be honourable in the eyes of many people; and <hi>many ſhall be joyned unto them, and to the Lord in that day; and the Kingdoms of this World ſhall become the Kingdoms of our Lord and of his Chriſt, and he ſhall reign for ever and ever.</hi>
+            </p>
+            <p>Oh the ſenſe of this God's <hi>glorious Day,</hi> wherein the Lamb, the Scepter over all muſt ſway, it tranſports my ſoul into a heavenly joy, and ſets my ſpirit above the vvorld full high: Wherefore I ſay unto you all that love and fear the Lord, Rejoyce and be glad, and in the ſtrength of his powerful Spirit tread upon all the vanities of the World, and caſt its glory behind you, and lift up your heads in the Faith and Power of God, which will give you Victory over the World, and the Devil, the god of it; and caſt away all the weights and burdens, with all the incumbrances there<g ref="char:EOLhyphen"/>of, wherein ſin is apt to beſet you, that you may have liberty with joy to run the Race which is ſet before
+<pb n="47" facs="tcp:100088:24"/>you, that ſo the glorious Crown of Immortality you may obtain, and with the Lamb upon his Throne may reign, which is promiſed to him that overcometh, even as he overcame; <hi>who was in all things tempted as we are, yet without ſin:</hi> So to that which is able to de<g ref="char:EOLhyphen"/>liver you out of temptation, as it did him, I leave you all, (to wit) the Life that was in him, which is the Light of men, in which the Prince of this World hath no part; which as every one comes to be ſtayed in, they are hid with God in Chriſt the Light, from the temptations of the Serpent, who can enter no where but in the earthly carnal mind, which is his throne, whereon he ſits, deceiving the Nations; but the day of his downfall is at hand, and therefore let the Hoſts of Heaven rejoyce and ſing, for over him ſhall reign our King, and upon the Throne on high ſhall ſit, and the Devil with all his works ſhall be caſt into the pit: Wherefore trumph ye Sons of <hi>Sion,</hi> and be glad ye Daughters of <hi>Jeruſalem,</hi> for he that makes the New-Creation is already come, who was the firſt, and will be the laſt; to whom be honour, glory and dominion now and for evermore.</p>
+            <closer>
+               <dateline>
+                  <hi>Delivered from my hand the third of the firſt Month, (called</hi> 
+                  <date>March) 1663.</date>
+               </dateline>
+               <signed>J. W.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
